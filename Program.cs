@@ -12,6 +12,8 @@
         {
             var workbookPath = "/Users/bulent.erdem/Desktop/TezcanİşKazaAnalizi.xlsx"; // Excel dosyasının yolu
             var jsonString = ConvertExcelToJson(workbookPath);
+            var jsonOutputPath = "/Users/bulent.erdem/Desktop/analiziJson.json"; // JSON dosyasının kaydedileceği yol
+            File.WriteAllText(jsonOutputPath, jsonString);
             System.Console.WriteLine(jsonString);
         }
 
@@ -39,12 +41,50 @@
                 data.Add(rowData);
             }
 
-            var jsonOutputPath = "/Users/bulent.erdem/Desktop/analiziJson.json"; // JSON dosyasının kaydedileceği yol
-            // JSON string'ini dosyaya yaz
-            File.WriteAllText(jsonOutputPath, JsonConvert.SerializeObject(data, Newtonsoft.Json.Formatting.Indented));
+            return JsonConvert.SerializeObject(data, Newtonsoft.Json.Formatting.Indented);
+        }
+
+
+        static string ConvertExcelToJson2(string filePath)
+        {
+            var workbook = new XLWorkbook(filePath);
+            var worksheet = workbook.Worksheet(1);
+            var rows = worksheet.RangeUsed().RowsUsed();
+
+            // Sadece belirli sütun başlıklarını almak için burada bir liste tanımlayın
+            var desiredHeaders = new List<string> { "İstenenSütun1", "İstenenSütun2", "İstenenSütun3" }; // Örnek sütun adları
+
+            // Anahtarları içeren ilk satırı alın ve yalnızca istenen sütunları filtreleyin
+            var headers = rows.First().Cells()
+                .Where(c => desiredHeaders.Contains(c.GetValue<string>().Trim()))
+                .Select(c => c.GetValue<string>().Trim());
+
+            var data = new List<Dictionary<string, object>>();
+
+            // İkinci satırdan itibaren verileri işleyin
+            foreach (var row in rows.Skip(1))
+            {
+                var rowData = new Dictionary<string, object>();
+                foreach (var cell in row.CellsUsed())
+                {
+                    var header = cell.WorksheetColumn().ColumnLetter();
+                    var key = worksheet.Cell(1, header).GetValue<string>().Trim();
+                    if (desiredHeaders.Contains(key))
+                    {
+                        var value = cell.GetValue<string>().Trim();
+                        rowData[key] = value;
+                    }
+                }
+                if (rowData.Count > 0) // Yalnızca istenen sütunlardan veri içeriyorsa ekle
+                {
+                    data.Add(rowData);
+                }
+            }
 
             return JsonConvert.SerializeObject(data, Newtonsoft.Json.Formatting.Indented);
         }
+
+
     }
 
 }
