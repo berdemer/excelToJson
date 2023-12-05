@@ -10,9 +10,9 @@
     {
         static void Main(string[] args)
         {
-            var workbookPath = "/Users/bulent.erdem/Desktop/TezcanİşKazaAnalizi.xlsx"; // Excel dosyasının yolu
+            var workbookPath = "/Users/bulenterdem/Projects/excelToJson/tezcanlarİş KazasıAnalizi/TezcanİşKazaAnalizi.xlsx"; // Excel dosyasının yolu
             var jsonString = ConvertExcelToJson(workbookPath);
-            var jsonOutputPath = "/Users/bulent.erdem/Desktop/analiziJson.json"; // JSON dosyasının kaydedileceği yol
+            var jsonOutputPath = "/Users/bulenterdem/Projects/excelToJson/tezcanlarİş KazasıAnalizi/analiziJson.json"; // JSON dosyasının kaydedileceği yol
             File.WriteAllText(jsonOutputPath, jsonString);
             System.Console.WriteLine(jsonString);
         }
