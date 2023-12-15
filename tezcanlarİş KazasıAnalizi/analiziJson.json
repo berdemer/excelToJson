@@ -26,7 +26,10 @@
     "KazaSaati": "14:20",
     "KKazaninOlusSekliveSebebi": "soğutma kulesinin orada bulunan kimyasal odasında ıbc ler arasında sülfürik aktarması yaparken sağ koluna sülfürik asit sıçramış.",
     "IkbilgisiIncelemeEkibi": "Çok Riskli Kaza İnceleme Ekibi Kurulmalı",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "16",
+    "KazaTarihindekiYası": "49",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "2",
@@ -55,7 +58,10 @@
     "KazaSaati": "09:35",
     "KKazaninOlusSekliveSebebi": "Main prosesste vana sökerken üzerine kaynar su gelmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "3",
@@ -84,7 +90,10 @@
     "KazaSaati": "16:35",
     "KKazaninOlusSekliveSebebi": "kaynak yaptığı esnada boru 1.5m den kafasının sağ üst kısmına düşmüş.Baş dönmesi şikayeti var.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "4",
@@ -113,7 +122,10 @@
     "KazaSaati": "13:40",
     "KKazaninOlusSekliveSebebi": "SOĞUTMA KULESINDE ÇALIŞIRKEN gözüne 34 34 adlı bir kimyasal sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "5",
@@ -139,10 +151,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "31.12.2019",
-    "KazaSaati": "10:55",
+    "KazaSaati": "31.12.1899 10:55:00",
     "KKazaninOlusSekliveSebebi": "ELEKTRİK ATÖLYESİNDE 10:55 DE MATKAPLA ÇALIŞIRKEN SOL EL İŞARET PARMAĞI VE BAŞPARMAK İÇ YÜZEYDE 2 CM KESİ OLUŞMUŞTUR. 4 DİKİŞ ATILDI.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "6",
@@ -168,10 +183,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "31.12.2019",
-    "KazaSaati": "11:30",
+    "KazaSaati": "31.12.1899 11:30:00",
     "KKazaninOlusSekliveSebebi": "Bugün 11:30 da Tezkim personellerimizden Murat Devecioğlu inşaat sahasında çinko levhayı sabitlemek için yerine koydukları esnada şiddetli rüzgarın etkisi ile üzerine çarpmıştır. Genel durumu iyi olup hayati tehlikesi düşünülmedi.Çekilen kafa filminden patolojik bir durum saptanmadı. Sadece el bileğinde yumuşak doku travması düşünüldü.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "7",
@@ -197,10 +215,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "04.11.2019",
-    "KazaSaati": "13:00",
+    "KazaSaati": "31.12.1899 13:00:00",
     "KKazaninOlusSekliveSebebi": "02.11.2019 13:00 de Seyyar helezon ( çekirge ) yükseklik ayarı yapan yaylı döner kolun boşa düşmesi sonucu saha operatörü Cumali AYDIN’ın sağ çene bölgesine darbe sonucu 4cm derin kesi oluşturmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "12",
+    "KazaTarihindekiYası": "37",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "8",
@@ -229,7 +250,10 @@
     "KazaSaati": "11:15",
     "KKazaninOlusSekliveSebebi": "SİTRİK ASİT FABRİKASINDA ÇALI KESERKEN MAKİNA İSAĞ EL ŞARET PARMAĞINI KESMİŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "9",
@@ -258,7 +282,10 @@
     "KazaSaati": "15:15",
     "KKazaninOlusSekliveSebebi": "Direk taşırken ayağı takılıp düşmüş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "21",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "10",
@@ -287,7 +314,10 @@
     "KazaSaati": "10:35",
     "KKazaninOlusSekliveSebebi": "idari bina merdivenlerinden inerken sağ ayak bileğini burkmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "11",
@@ -316,7 +346,10 @@
     "KazaSaati": "22:50",
     "KKazaninOlusSekliveSebebi": "enes Hacıkerimoğlu ile kurutucu üzerine çıkmış köşedeki açık yere düşüp ızgaralı saç bacağını sol diz medial kısmında 10 cm kesi oluşmuş .",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "12",
@@ -345,7 +378,10 @@
     "KazaSaati": "16:45",
     "KKazaninOlusSekliveSebebi": "yakıt pompasından inerken sağ ayak bileği üzerine kaymış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "13",
@@ -374,7 +410,10 @@
     "KazaSaati": "17:40",
     "KKazaninOlusSekliveSebebi": "kondensat numenesi alirken  elini yakmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "14",
@@ -403,7 +442,10 @@
     "KazaSaati": "03:10",
     "KKazaninOlusSekliveSebebi": "Değirmen altı MON helezonu numune alım yeri olmayan noktadan un  numunesi alınmaya çalışıldığı esnada kaza meydana gelmiştir. İki parmak orta ve işaret pamağının uç kısmında yaralanma ve doku kaybı gerçekleşmiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "15",
@@ -432,7 +474,10 @@
     "KazaSaati": "02:10",
     "KKazaninOlusSekliveSebebi": "Laboratuvar de işlem yaptığı esnada kırılan erlen tüpü el bileğini 2 cm kadar kesilmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "16",
@@ -461,7 +506,10 @@
     "KazaSaati": "15:15",
     "KKazaninOlusSekliveSebebi": "skraber duşlama klonu blok hortumunu değiştirirken bağlantı kısmını çıkarttığında su sağ kol iç yüseyinde yanık oluşturmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "8",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "17",
@@ -490,7 +538,10 @@
     "KazaSaati": "11:15",
     "KKazaninOlusSekliveSebebi": "norma dekantör binasının ikinci katta su giderlerinin kapağını açıp devreye alırken m1 helezonuna kontrol yaparken geri geri giderken açtığı helezon içine düşmüş. Sol bacak ve sol kolda yer yer sıyrık ve yaralar oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "7",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "18",
@@ -519,7 +570,10 @@
     "KazaSaati": "12:25",
     "KKazaninOlusSekliveSebebi": "hortum logardan çıkmış çıkan cip sol ön yüzeyde muhtemel 1 derece yanık oluşturmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "5",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "19",
@@ -548,7 +602,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "DEĞIRMEN BÖLGESINDE YERLERI YIKARKEN SOL DIZ KAPAĞI BÖLGESINI HORTUMDAKI SICAK SUYLA YAKMIŞ",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "20",
@@ -577,7 +634,10 @@
     "KazaSaati": "23:00",
     "KKazaninOlusSekliveSebebi": "distilasyon ünitesinde yüksek basınçla kostikli sıcak su hortumunun patlmasıyla sağ ayağının bileğin altında yanık oluştu.ertesi sabah hastaneye gitmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "7",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "21",
@@ -606,7 +666,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "IBS yıkanması sırasında sıcak su hortumu elinden kaymış. Bel bölgesinde yanık oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "8",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "22",
@@ -635,7 +698,10 @@
     "KazaSaati": "20:25",
     "KKazaninOlusSekliveSebebi": "MAIN PROSESS ÖNÜNDE AYAĞI BOŞA DÜŞÜYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "7",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "23",
@@ -661,10 +727,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "17.02.2020",
-    "KazaSaati": "15:40",
+    "KazaSaati": "31.12.1899 15:40:00",
     "KKazaninOlusSekliveSebebi": "15:40 da hurdalıkta sağ  bacağını çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "24",
@@ -693,7 +762,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "yemekhanede salça tenekelerni açarken sağ el serçe parmağın kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "25",
@@ -722,7 +794,10 @@
     "KazaSaati": "13:00",
     "KKazaninOlusSekliveSebebi": "Et doğrama işi yaptığı esnada sol kol içine bıçak girmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "26",
@@ -751,7 +826,10 @@
     "KazaSaati": "10:20",
     "KKazaninOlusSekliveSebebi": "yemekhane-Mutfak asansör boşluğuna sırt üstü düşmüş.",
     "IkbilgisiIncelemeEkibi": "Çok Riskli Kaza İnceleme Ekibi Kurulmalı",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "50",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "27",
@@ -780,7 +858,10 @@
     "KazaSaati": "10:00",
     "KKazaninOlusSekliveSebebi": "Mutfaktaki krom malzemeyi kostik ile temizlediği sırada kostik sol gözüne sıçrıyor. bol su ile yıkamış. iş çıkışında rahatsızlığı devam edince hastaneye gitmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "45",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "28",
@@ -809,7 +890,10 @@
     "KazaSaati": "08:30",
     "KKazaninOlusSekliveSebebi": "lavobada Kıyafetlerini değiştirirken sağ ayağını atarken ayağı kayıp burkulmuş",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "29",
@@ -838,7 +922,10 @@
     "KazaSaati": "07:30",
     "KKazaninOlusSekliveSebebi": "12 saat dinlendikten sonra şuurunu kaybetmiş yoldan çıkmış.Tarlaya girmiş.Bir süre sonra kendine gelmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "30",
@@ -867,7 +954,10 @@
     "KazaSaati": "12:50",
     "KKazaninOlusSekliveSebebi": "ETANOL DOLUM NOKTASINDA DOLUM YAPARKEN KAFASINI TIRIN DOLABINA VURMUŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "9",
+    "KazaTarihindekiYası": "55",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "31",
@@ -896,7 +986,10 @@
     "KazaSaati": "11:40",
     "KKazaninOlusSekliveSebebi": "TAT NIŞASTAYA AIT YENI YAPILAN INŞAATTA ÇALIŞIRKEN ELINDEKI 10*10 KALASI , YUKARIDA ÇALIŞAN ARKADAŞINA UZATMAK ISTERKEN KALAS ELINDEN KAYIYOR SOL AYAK ÜST KEMIK KISMINA DÜŞÜYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "51",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "32",
@@ -925,7 +1018,10 @@
     "KazaSaati": "13:15",
     "KKazaninOlusSekliveSebebi": "Paletle yükleme yaptığı esneda sol ayağı palet arasına girmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "33",
@@ -951,10 +1047,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "28.04.2020",
-    "KazaSaati": "14:30",
+    "KazaSaati": "31.12.1899 14:30:00",
     "KKazaninOlusSekliveSebebi": "14:30 da Lamanın kenarını taşlama yaparken sol baş parmak eklem üstünde 1 cm kesi oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "37",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "34",
@@ -983,7 +1082,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "Boru taşlaması yaparken sol üstünde 1cm yüzeyel yara oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "35",
@@ -1012,7 +1114,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "Spiral taşını değiştirirken makina kendi kendine çalışıp sol orta parmak üst proximalde 1.5  yüzeyel parçalı kesi oluşturmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "36",
@@ -1041,7 +1146,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "Tankın içindeki alt saçı kayarak sol üst kısmında 3 cm yüzeyel kesi oluşturmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "37",
@@ -1067,10 +1175,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "20.05.2020",
-    "KazaSaati": "12:00",
+    "KazaSaati": "31.12.1899 12:00:00",
     "KKazaninOlusSekliveSebebi": "16.05.2019 tarihinde çalışırken taşlama yaptığında toz girdiğinde bahsediyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "38",
@@ -1099,7 +1210,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "Arıtma bölgesin boru kesilirken boru içinde kalan kostik sol gözüne sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "39",
@@ -1128,7 +1242,10 @@
     "KazaSaati": "09:10",
     "KKazaninOlusSekliveSebebi": "Fermenter içinde kaynakçıya malzeme verirken iskelede ayağı kayması nedeni ile 1m  sol omzunun üzerine düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "40",
@@ -1157,7 +1274,10 @@
     "KazaSaati": "10:31",
     "KKazaninOlusSekliveSebebi": "atolyede çalışırken mengeneyi döndürürken sephaya sol elini cizdirmiş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "48",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "41",
@@ -1183,10 +1303,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "13.11.2020",
-    "KazaSaati": "13:00",
+    "KazaSaati": "31.12.1899 13:00:00",
     "KKazaninOlusSekliveSebebi": "8 METRE YUKARDAKİ 80LİK SICAK SU HATTI ÜZERİNDE KAYNAK YAPARKEN  SU GELMESİ NEDENİ İLE EMNİYET KEMERİ TAKILI HALDE KENDİNİ AŞAĞIYA BIRAKMIŞ. sONRASINDA KENSİNİ 2 METREDEN AŞAĞIYA EMİNİYET KEMERİNDEN BIRAKARAK AYAKLARININ ÜZERİNE DÜŞMÜŞTÜR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "42",
@@ -1215,7 +1338,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "İskelede ayağı burkulmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "43",
@@ -1241,10 +1367,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "05.12.2019",
-    "KazaSaati": "13:30",
+    "KazaSaati": "31.12.1899 13:30:00",
     "KKazaninOlusSekliveSebebi": "13:30 DA VİNÇ SEPETİNE DIŞ CEPHE SAÇLARINI YÜKLEDİĞİ ESNADA TAKILMA NETİCESİNDE SAÇ SAĞ İÇ YÜZEYİNİ 2.5 CM KESİ OLUŞTURMUŞTUR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "36",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "44",
@@ -1273,7 +1402,10 @@
     "KazaSaati": "15:30",
     "KKazaninOlusSekliveSebebi": "senfantin borularını değişim esnasında ,kaynak yaparken sol gözüne çapak kaçmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "45",
@@ -1302,7 +1434,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "5 mm 8inçlik boruyu iki kişi tutarken ,borunun yüklendiği beton duvar çökünce boru çalışandan yana,üstüne doğru yıkılmış. önce göğsüne düşmüş sonra bacaklarına çarpmış. göğsüne düşünce borunun çarpma etkisiyle başını arkasındaki duvara çarpmış. Dudakta açık yara sol ayağında hassasiyet mevcut.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "46",
@@ -1331,7 +1466,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "dün öğlen saat 11:30 civarlarında personel, tezmakta bulunan atölyenin büyük kapısının orada çevreyi toparlayıp yemeğe gitmek isterken eğiliyor, kalkarken kafasını köşeli bir demir(?) çarpıyor. ismail ballık'ın bilgisi dahilinde çukurova osgbye götürülüyor 2 adet dikiş atılıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "57",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "47",
@@ -1357,10 +1495,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "29.11.2019",
-    "KazaSaati": "10:30",
+    "KazaSaati": "31.12.1899 10:30:00",
     "KKazaninOlusSekliveSebebi": "Bugün saat 10:30 ‘da makine montajı(yer değişikliği) yapıldığı  yerin üst kısmındaki boruların destekleyen kısımdaki puntonun sökülmesi ile takribi 50 cm yükseklikten borular koparak üzerlerine düşmüştür.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "50",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "48",
@@ -1389,7 +1530,10 @@
     "KazaSaati": "14:00",
     "KKazaninOlusSekliveSebebi": "Kesim işi yaparken spiral taşının patlaması nedeniyle alt ve üst dudak ,ve sağ koldan derin kesi oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "52",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "49",
@@ -1415,10 +1559,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "09.12.2019",
-    "KazaSaati": "11:00",
+    "KazaSaati": "31.12.1899 11:00:00",
     "KKazaninOlusSekliveSebebi": "saat 11:00 de iki tane franj arasına vana bağlarken açama kapama yeri sağ kaş kenarına şiddetli çarparak 1cm civarında kesi oluşturmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "48",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "50",
@@ -1444,10 +1591,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "21.10.2020",
-    "KazaSaati": "12:00",
+    "KazaSaati": "31.12.1899 12:00:00",
     "KKazaninOlusSekliveSebebi": "Ayağı kayması nedeni ile 2 cm kesi oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "51",
@@ -1473,10 +1623,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "30.04.2020",
-    "KazaSaati": "07:00",
+    "KazaSaati": "31.12.1899 07:00:00",
     "KKazaninOlusSekliveSebebi": "07:00 paketlemenin ayağı tele takılarak sağ elinin üzerine düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "-1",
+    "KazaTarihindekiYası": "43",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "52",
@@ -1505,7 +1658,10 @@
     "KazaSaati": "12:08",
     "KKazaninOlusSekliveSebebi": "Düz yolda yürürken ayağı taş gelmiş.Ayağı taşa gelince sağ ayak bileği dönmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "52",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "53",
@@ -1534,7 +1690,10 @@
     "KazaSaati": "14:11",
     "KKazaninOlusSekliveSebebi": "taşlama yaparken sağ göze çapak kaçmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "45",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "54",
@@ -1563,7 +1722,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "Transite tüp yüklendiği sırada sol el orta parmak tüp ile koltuk arasında kalıyor.2x2 cm kesi oluşuyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "55",
@@ -1592,7 +1754,10 @@
     "KazaSaati": "15:55",
     "KKazaninOlusSekliveSebebi": "makine toplarken vida sıktığı esnada vida elinden sekiyor,sağ göz alt tarafına çarpıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "56",
@@ -1621,7 +1786,10 @@
     "KazaSaati": "14:10",
     "KKazaninOlusSekliveSebebi": "Stiral yaptığında elinden kayan spiral sağ kolda yüzeyel kesi oluşturmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "37",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "57",
@@ -1650,7 +1818,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "İkeleden inerken ayağın kaymış.sağ sırtını köşebntte çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "58",
@@ -1679,7 +1850,10 @@
     "KazaSaati": "12:15",
     "KKazaninOlusSekliveSebebi": "tezmak atölyede çalışırken tankın altından çıkarken ayağı takılıyor, sol dizini köşesi sivri bir demire çarpıyor. olay 27.08.2022 tarihinde oluyor. revire müracaat bugün.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "49",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "59",
@@ -1708,7 +1882,10 @@
     "KazaSaati": "09:40",
     "KKazaninOlusSekliveSebebi": "Elektrolit çubuğu alırken kayarak sol gözünün üzerine düşmüş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "48",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "60",
@@ -1737,7 +1914,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "kaynak makinası çıkan duman nedeni ile dokununca elektrik akımına kapılmış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "61",
@@ -1766,7 +1946,10 @@
     "KazaSaati": "15:05",
     "KKazaninOlusSekliveSebebi": "kaynak torçunu yaptığı esnada sol el işaret parmağına tornivida giriyor.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "36",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "62",
@@ -1792,10 +1975,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "04.01.2023",
-    "KazaSaati": "12:00",
+    "KazaSaati": "31.12.1899 12:00:00",
     "KKazaninOlusSekliveSebebi": "Yürürken araça bindiği esnada ayağında ses geldiğini anlattı.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "63",
@@ -1821,10 +2007,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "11.02.2020",
-    "KazaSaati": "09:00",
+    "KazaSaati": "31.12.1899 09:00:00",
     "KKazaninOlusSekliveSebebi": "Bu sabah 09:00 da Tezmak personellerinden Zafer IŞIK iki adet kesilen parçanın arasına konfektor konulduğu esnada araya giren flanşa başını çarpıp baretini düşürmüş. O arada iskeleden başına sabitlenmemiş boru parçası başın üst tarafına çarpmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "64",
@@ -1850,10 +2039,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "10.01.2022",
-    "KazaSaati": "12:00",
+    "KazaSaati": "31.12.1899 12:00:00",
     "KKazaninOlusSekliveSebebi": "tat nişastada işletme binasında çalışırken eleklerin olduğu kısımda kelepçenin ucundaki tel parçası sol el yüzük parmağına batmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "65",
@@ -1882,7 +2074,10 @@
     "KazaSaati": "10:40",
     "KKazaninOlusSekliveSebebi": "Tat nişastada  milhaouse bölümünde separatör cihazının bağlantılarını sökerken sağ gözüne bilinmeyen yakıcı kiyasal sıçramış. Göze lavaj yapıldı",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "66",
@@ -1911,7 +2106,10 @@
     "KazaSaati": "09:15",
     "KKazaninOlusSekliveSebebi": "Taşlama yapılan yerin yanından geçerken esen rüzgardan gözüne çapak girmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "67",
@@ -1937,10 +2135,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "01.07.2020",
-    "KazaSaati": "09:45",
+    "KazaSaati": "31.12.1899 09:45:00",
     "KKazaninOlusSekliveSebebi": "09:45 de forlift geri gelirken kendisi kenarda olup sol atyağın üzerinden geçmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "68",
@@ -1969,7 +2170,10 @@
     "KazaSaati": "11:05",
     "KKazaninOlusSekliveSebebi": "Saç levhayı vinçle yerine yerleştirdiği esnada saç levha ayağının üzerine kaymış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "55",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "69",
@@ -1998,7 +2202,10 @@
     "KazaSaati": "15:35",
     "KKazaninOlusSekliveSebebi": "Balyoz sapı ile mapa demiri arasında kalmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "55",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "70",
@@ -2027,7 +2234,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "bükülmüş boruları KAYNAK YAPARKEN boru sağ ayağına kaymış.OSGB revirine gitmiş buz tedavisi yapılmış. Film çekilmesi önerilmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "55",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "71",
@@ -2056,7 +2266,10 @@
     "KazaSaati": "08:10",
     "KKazaninOlusSekliveSebebi": "SERVIS IÇERISINDE IŞ YERINE ISTIKAMET EDERKEN,ÖNDE FREN YAPAN ARACA ÇARPMAMAK IÇIN SERVIS FREN YAPINCA ARKADAKI TIR SERVISE VURUYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "45",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "72",
@@ -2085,7 +2298,10 @@
     "KazaSaati": "11:15",
     "KKazaninOlusSekliveSebebi": "fermenterde çalışırken sağ elinin üstüne kullandığı matkap düşmüş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "73",
@@ -2114,7 +2330,10 @@
     "KazaSaati": "09:35",
     "KKazaninOlusSekliveSebebi": "revizyon yaparken iskele borusunun arasında sağ işaret,orta ve yüzük parmak kalmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "74",
@@ -2143,7 +2362,10 @@
     "KazaSaati": "15:50",
     "KKazaninOlusSekliveSebebi": "Fermenter tankının iskelesinde tavası kayıp sol dizinin üzerine düşmüş. İskelenin üzerinde asılı kalmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "75",
@@ -2172,7 +2394,10 @@
     "KazaSaati": "16:20",
     "KKazaninOlusSekliveSebebi": "Sülfürük Asitpompa bağlantı vanasına eli çarpınca sağ yüz bölgesinde yanık oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "76",
@@ -2201,7 +2426,10 @@
     "KazaSaati": "10:00",
     "KKazaninOlusSekliveSebebi": "17.05.2023 tarihinde sabah atölyede, balyoz ile demir düzeltme işinden sonra kulaklarında çınlama oluşan kazazede, şikayetlerinin azalmaması üzerine, 18.05.2023 tarihinde Sağlık Birimine gitmiş ve Dr. Bülent Erdem tarafından ilk muayenesi yapılıp, testler için AOSB Devlet Hastanesine Sevkedilmiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "77",
@@ -2230,7 +2458,10 @@
     "KazaSaati": "15:20",
     "KKazaninOlusSekliveSebebi": "tankın için profik çekiç arasında sağ baş parmak kalmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "78",
@@ -2256,10 +2487,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "14.02.2020",
-    "KazaSaati": "13:00",
+    "KazaSaati": "31.12.1899 13:00:00",
     "KKazaninOlusSekliveSebebi": "13.02.2020 13:00 da punto yaptığı esnada kaynak gözünü almış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "79",
@@ -2285,10 +2519,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "12.06.2020",
-    "KazaSaati": "13:00",
+    "KazaSaati": "31.12.1899 13:00:00",
     "KKazaninOlusSekliveSebebi": "12.06.2020 13:00  daSağ ayak üzerine alet düşmesi nedeni ile 0.5 derin yara tespit edildi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "37",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "80",
@@ -2314,10 +2551,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "04.02.2020",
-    "KazaSaati": "12:00",
+    "KazaSaati": "31.12.1899 12:00:00",
     "KKazaninOlusSekliveSebebi": "Argon Kaynak maskesinin  kaldırırken elinde bulunan argon milinin burun deliğinden girmesi sonucu yaralanmıştır. Genel durumu iyi olup ambulans ile hastaneye sevk edilmiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "81",
@@ -2343,10 +2583,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "20.11.2019",
-    "KazaSaati": "07:30",
+    "KazaSaati": "31.12.1899 07:30:00",
     "KKazaninOlusSekliveSebebi": "19.11.2019 saat 07:30 sıralarında Ümit Avcıl adlı Tezmak personelimiz iş kazası geçirmiştir. Anlatıcısına göre su kulesi inşaatının yanında boruyu nakletmemek için gittikleri kulenin yanında ortamın karanlık ve dalgınlık nedeni ile takribi 4 metrelik üzeri plywood sunta ile kapalı su kuyusuna düşmüştür.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "82",
@@ -2372,10 +2615,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "11.12.2019",
-    "KazaSaati": "12:00",
+    "KazaSaati": "31.12.1899 12:00:00",
     "KKazaninOlusSekliveSebebi": "Malzeme yüklerken ayağı burkulmuş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "49",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "83",
@@ -2404,7 +2650,10 @@
     "KazaSaati": "15:04",
     "KKazaninOlusSekliveSebebi": "sepetli vinç içinden çıkarken teli kutusuyla çıarırken tel sol gözüne değimiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "84",
@@ -2433,7 +2682,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "kaynak yaptığı yere sol back ön kısmı çarpmış ve yanmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "85",
@@ -2459,10 +2711,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "18.05.2020",
-    "KazaSaati": "14:30",
+    "KazaSaati": "31.12.1899 14:30:00",
     "KKazaninOlusSekliveSebebi": "17.05.2020 14:30 da kaynak yaptığı esnada dengesine kaybetmesi nedeni ile argon teli sol gözde saat 7 hşzasında batma oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "86",
@@ -2491,7 +2746,10 @@
     "KazaSaati": "15:20",
     "KKazaninOlusSekliveSebebi": "Tahta ile boruları çakarkensol işaret parmağına çekiç ile çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "53",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "87",
@@ -2520,7 +2778,10 @@
     "KazaSaati": "09:35",
     "KKazaninOlusSekliveSebebi": "Spiral yaparken taşın patlamasıyla  sol gözüne çapak batmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "88",
@@ -2546,10 +2807,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "09.03.2020",
-    "KazaSaati": "11:00",
+    "KazaSaati": "31.12.1899 11:00:00",
     "KKazaninOlusSekliveSebebi": "saat 11:00 de oksijen tüplerini taşıdığı esnada ayağı takılarak sol el bileği tüplerin üzerine düşmüştür.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "89",
@@ -2578,7 +2842,10 @@
     "KazaSaati": "12:00",
     "KKazaninOlusSekliveSebebi": "FORKLİFTE KALDIRACAĞINDAN FAZLA YÜK BİNDİRMİŞLER.FORKLİFTİ KULLANIRKEN ARKA TARAFI HAVAYA KALKMIŞ. FORKLİFTTEN AŞAĞIYA ATLARKEN SOL DİZ KAPAĞINI FORKLİFTİN SOL ÖN DEMİRİNE VURMUŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "36",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "90",
@@ -2607,7 +2874,10 @@
     "KazaSaati": "10:15",
     "KKazaninOlusSekliveSebebi": "taşlama yaparken capak kaçmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "91",
@@ -2636,7 +2906,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "Vinç Mapası Arasında kalmış.Deride sıyrılması olmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "92",
@@ -2665,7 +2938,10 @@
     "KazaSaati": "16:40",
     "KKazaninOlusSekliveSebebi": "kurutma bölümünde boru keserken sol gözüne çapak sıçramış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "93",
@@ -2694,7 +2970,10 @@
     "KazaSaati": "12:05",
     "KKazaninOlusSekliveSebebi": "sol göze çapak kaçması",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "94",
@@ -2723,7 +3002,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "su kazanının orda u borusu keserken gözüne çapak kaçmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "95",
@@ -2752,7 +3034,10 @@
     "KazaSaati": "12:00",
     "KKazaninOlusSekliveSebebi": "tez tarımda çalışırken sol kolundan arı sokmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "96",
@@ -2781,7 +3066,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "profşili iterken aşırı zorlamadan dolayı sol baş parmağı incilmiştir",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "97",
@@ -2810,7 +3098,10 @@
     "KazaSaati": "17:30",
     "KKazaninOlusSekliveSebebi": "300 harç demiri sol ayak tarak kemiklerinin üstüne düşmüş. Cumartesi günü ayağı şişmesi ve morarması üzerine yüreğir devlet hastanesine gitmiş. 3 gün istirahat almış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "98",
@@ -2839,7 +3130,10 @@
     "KazaSaati": "13:30",
     "KKazaninOlusSekliveSebebi": "DND BÖLÜMÜNDE KAYNAK YAPMAYA BAŞLAMADAN ÖNCE ,TANKTAN BIR SIVI AKTIĞINI GÖRÜYOR.BU AKAN SIVININ NE OLDUĞUNU SORDUĞUNDA SU DENILIYOR. KAYNAK YAPMAYA BAŞLADIĞI ESNADA ALKOL OLDUĞU ANLAŞILAN SIVI PARLIYOR VE KIŞININ AYAKLARINI,YÜZÜNÜ,KIRPIKLERINI VE DUDAKLARINI YAKIYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "99",
@@ -2868,7 +3162,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "Kapma sökerken çapak parçası sol kolunu 2cm kesisi olmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "100",
@@ -2897,7 +3194,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "Silindirden inerken yandaki boşluğa düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "101",
@@ -2926,7 +3226,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "egzoz hava kilit ayarı yaptığın sağ el orta parmak fan arasında kalıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "102",
@@ -2955,7 +3258,10 @@
     "KazaSaati": "12:30",
     "KKazaninOlusSekliveSebebi": "sağ ayağına, yemekhaneden dönerken toprak alan içinde bulunan bir çivi batmıştır",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "103",
@@ -2984,7 +3290,10 @@
     "KazaSaati": "13:00",
     "KKazaninOlusSekliveSebebi": "sol eline kapak çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "104",
@@ -3013,7 +3322,10 @@
     "KazaSaati": "13:00",
     "KKazaninOlusSekliveSebebi": "Spiralle çalışırken gözlük ve siperlik olmasına rağmen sağ göze çapak kaçmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "43",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "106",
@@ -3042,7 +3354,10 @@
     "KazaSaati": "08:10",
     "KKazaninOlusSekliveSebebi": "SERVIS IÇERISINDE IŞ YERINE ISTIKAMET EDERKEN,ÖNDE FREN YAPAN ARACA ÇARPMAMAK IÇIN SERVIS FREN YAPINCA ARKADAKI TIR SERVISE VURUYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "107",
@@ -3071,7 +3386,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "1 BASAMAKLI MERDİVENDEN İNERKEN SOL AYAĞINI BURKUYOR.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "108",
@@ -3100,7 +3418,10 @@
     "KazaSaati": "11:35",
     "KKazaninOlusSekliveSebebi": "damperin üzerinden atlamış sol ayağı burkulmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "109",
@@ -3129,7 +3450,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "sağ el işaret parmağına  ÇIVI ÇAKARKEN vurmuş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "58",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "110",
@@ -3158,7 +3482,10 @@
     "KazaSaati": "14:05",
     "KKazaninOlusSekliveSebebi": "kaynak yaptığı esnada sağ elinde yanık oluşmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "111",
@@ -3187,7 +3514,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "d blok acil çıkış kapısından çıkarken,çıkış kapısının hemen bitimine beton dökümü için kalıplar kurulmuş. hasta/yaralı uyarı levhası olmadığı için o kalıpların içine dengesiz bir biçimde giriyor ve sağ ayak bileğini incitiyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "112",
@@ -3216,7 +3546,10 @@
     "KazaSaati": "08:10",
     "KKazaninOlusSekliveSebebi": "SERVIS IÇERISINDE IŞ YERINE ISTIKAMET EDERKEN,ÖNDE FREN YAPAN ARACA ÇARPMAMAK IÇIN SERVIS FREN YAPINCA ARKADAKI TIR SERVISE VURUYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "113",
@@ -3242,10 +3575,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "01.09.2021",
-    "KazaSaati": "19:30",
+    "KazaSaati": "31.12.1899 19:30:00",
     "KKazaninOlusSekliveSebebi": "Kendi ifadesine göre Profil sol kaval kemiğine gelmiş. Akşama kadar çalışmış. saat 19:300 acile gitmiş. Servisten indikten sonra evine giderken ayağını çukura düşmüş topuk kemiği çatlamış. hastanede iş kazası tutanağı tutulmamış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "51",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "114",
@@ -3274,7 +3610,10 @@
     "KazaSaati": "14:30",
     "KKazaninOlusSekliveSebebi": "tat nişasta boru köprüsü montajı esnasında vinç parcanın yerine konulması sırasında parçayı tutan halatın rüzgarında etkisi ile kazazededinin yanağını sıyırması sonucu sağ yanakta dudak hizasında kulağa doğru 2 cm eninde yüzeyel yaralanma olmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "6",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "115",
@@ -3303,7 +3642,10 @@
     "KazaSaati": "16:15",
     "KKazaninOlusSekliveSebebi": "sitrik asit atölye bölgesinde argon kaynağı yaparken, argonun ışığı(?) yüzünü ve boynunu yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "116",
@@ -3332,7 +3674,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "Alçı tozuna maruziyeti 30 dk kalmış Nefes darlığı ve öksürük şikayeti olmuş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "117",
@@ -3361,7 +3706,10 @@
     "KazaSaati": "14:15",
     "KKazaninOlusSekliveSebebi": "afmde sebilden sıcak su alırken sağ el bilek kısmını yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "118",
@@ -3390,7 +3738,10 @@
     "KazaSaati": "14:20",
     "KKazaninOlusSekliveSebebi": "raylı tomruk makinesine sıkışan tomruğu eliyle düzeltmek isterken yanında çalışan arkadaşı tomruk kaldırma kolunu indiriyor ve sağ el orta parmak tomrukla demir arasında sıkışıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "36",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "119",
@@ -3416,10 +3767,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "29.05.2020",
-    "KazaSaati": "07:00",
+    "KazaSaati": "31.12.1899 07:00:00",
     "KKazaninOlusSekliveSebebi": "Sabah 07:00 nötrilizasyon 2 tankında  ürünün taşması nedeni ile gözüne kaçması nedeni ile hafif görme bulanıklığı ve ağrı meydana geliyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "120",
@@ -3448,7 +3802,10 @@
     "KazaSaati": "07:50",
     "KKazaninOlusSekliveSebebi": "kimyasal tank sahasında sülfürük asit boşaltımı yapılırken sülfürik asit pompası flanş kısmından atması sonucu duvara çarpıp boyun ve yanak kısmına sülfirik asit gelmiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "121",
@@ -3477,7 +3834,10 @@
     "KazaSaati": "10:00",
     "KKazaninOlusSekliveSebebi": "mekiği eliyle kontrol etmek isterken arkasında yerde bulunan demire ayağı takılmış,düşmemeye çalışırken önde bulunan mekiği eliyle tuttuğu esnada demirin keskin kısmı sol el parmağını kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "122",
@@ -3503,10 +3863,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "14.03.2021",
-    "KazaSaati": "11:25",
+    "KazaSaati": "31.12.1899 11:25:00",
     "KKazaninOlusSekliveSebebi": "Ayağı kayıp iki demir arasında ayağının sıkıştığını söyledi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "123",
@@ -3532,10 +3895,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "26.10.2019",
-    "KazaSaati": "10:30",
+    "KazaSaati": "31.12.1899 10:30:00",
     "KKazaninOlusSekliveSebebi": "IBS içindeki hortumun (bakmak için )önünde bulunduğu esnada arkadaşının hortuma müdahalesi sonucunda içindeki 80-85 derece kaynayan su boyun, ön göğüsün tamamı ve sol kolun üst kısmında muhtemel 1 ve 2 derece yanık oluşturmuştur. İlk müdahalesi yapılıp Adana Şehir Hastanesine sevk edilmiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "124",
@@ -3564,7 +3930,10 @@
     "KazaSaati": "16:30",
     "KKazaninOlusSekliveSebebi": "beltfiltre c belt kısmında çalışırken yukarıdan boyun bölgesine yakıcı bir sıvı damlıyor. boyun bölgesinde çok küçük çapta 1. derecede yanık oluşmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "125",
@@ -3593,7 +3962,10 @@
     "KazaSaati": "17:50",
     "KKazaninOlusSekliveSebebi": "erlen karıştırırken sağ el yüzün parmağını kesiyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "126",
@@ -3622,7 +3994,10 @@
     "KazaSaati": "12:39",
     "KKazaninOlusSekliveSebebi": "GEMICI MERDIVENINDEN AŞAĞI INERKEN AYAĞI KAYIYOR,SAĞ AYAK KAVAL KEMIĞI IKI MERDIVEN ÇUBUĞU ARASINDA SIKIŞIYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "127",
@@ -3651,7 +4026,10 @@
     "KazaSaati": "10:10",
     "KKazaninOlusSekliveSebebi": "Saat 22:00 sularında Vardiya Amir Yardımcısı Serkan Yükselin araması ile olaydan haberim oldu.Aykagını burktugu için müdahale edilmedi  Vardiya Amir Yardımcısı İsmet Can Yılmaz eşliğinde OSGB sağlık merkezine şirket aracıyla götürülerek müdahalede bulunuldu.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "128",
@@ -3680,7 +4058,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "FERMENTER EN ÜST KATTA BULUNAN SEEL1 TANKINDAN AŞAĞIYA BORULARA TUTANARAK INERKEN SICAK BORULAR HER IKI EL AVUCUNU VE PARMAK UÇLARINI YAKMIŞ",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "21",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "129",
@@ -3709,7 +4090,10 @@
     "KazaSaati": "12:00",
     "KKazaninOlusSekliveSebebi": "ELEKLERİN ARAYA KATILAN NAYLONU DEĞİŞTİRİRKEN YANDAKİ MAKİNAYA SIRTINI ÇARPMIŞ",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "36",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "130",
@@ -3738,7 +4122,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "plakanın brandasını sökerken ayağı kayıp başını plakaya vurmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "131",
@@ -3767,7 +4154,10 @@
     "KazaSaati": "08:00",
     "KKazaninOlusSekliveSebebi": "depo sevkiyat bölümünde forkliftten inip kapıyı açmak isterken ayağı kayıyor ve sağ kol ve sağ kaburga tarafına düşüyor. sağ kolda yüzeyel sıyrık var. kaburga bölgesinde ağrı ve hassasiyet var.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "42",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "132",
@@ -3796,7 +4186,10 @@
     "KazaSaati": "13:00",
     "KKazaninOlusSekliveSebebi": "Tankın üzerinde yıkama yaparken kafasını demire vurmuş. 1 cm civarında sıyrık ve kanama görüldü.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "133",
@@ -3825,7 +4218,10 @@
     "KazaSaati": "23:30",
     "KKazaninOlusSekliveSebebi": "Sıcak su ile sol kol ve sol göğüsün bir kısmı 08.07.2020 saat 11:30 yanmıştır.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "134",
@@ -3854,7 +4250,10 @@
     "KazaSaati": "09:35",
     "KKazaninOlusSekliveSebebi": "Yükleme yapılan yerdeki gemici merdiveninde ayağı takılarak takribi 1.5 m düşüyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "135",
@@ -3883,7 +4282,10 @@
     "KazaSaati": "17:00",
     "KKazaninOlusSekliveSebebi": "CHYPSUM BÖLÜMÜNDE ÇALIŞIRKEN AÇIK RÖGAR KAPAĞININ ÜSTÜ GYPSUM ILE KAPLANDIĞI IÇIN, GÖRMEYIP HER IKI BACAĞIYLA BIRLIKTE IÇINE DÜŞMÜŞ. OLAY 25.06.2022 DE OLUP REVIRE BILDIRIM TARIHI 27.06.2022DIR. OLAYIN OLDUĞU GECE AĞRILARININ ARTMASINDAN DOLAYI ACILE GIDIP IŞ KAZASI OLARAK BILDIRMIŞ FAKAT PROSEDÜRÜ BILMEDIĞI IÇIN BIZLERE BILGI VERMEMIŞTIR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "136",
@@ -3912,7 +4314,10 @@
     "KazaSaati": "15:40",
     "KKazaninOlusSekliveSebebi": "spiral ile palet temizleme yaparken sağ el baş sıyırıyor.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "137",
@@ -3941,7 +4346,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "pano odalarında yükesltilmiş panonun boşluğuna basmış.sağ ayağı düşünçe sağ tarafını u demirine çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "138",
@@ -3967,10 +4375,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "21.06.2020",
-    "KazaSaati": "12:40",
+    "KazaSaati": "31.12.1899 12:40:00",
     "KKazaninOlusSekliveSebebi": "21.06.2020 12:40 da merdiven çıktığında merdiven kayınca düşmüş  sağ tarafından yere düşmüş. diz kapağı ve sağ kaburgasında şiddetli ağrısı var.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "139",
@@ -3999,7 +4410,10 @@
     "KazaSaati": "17:00",
     "KKazaninOlusSekliveSebebi": "AFM'de montaj sırasında baklavalı sac plakaya kafasını vuruyor. sac plaka manliftin üstünde bulunuyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "140",
@@ -4028,7 +4442,10 @@
     "KazaSaati": "14:30",
     "KKazaninOlusSekliveSebebi": "EVAP KATINDA YENI MONTAJLANACAK FANLARA KABLO ÇEKERKEN,TAVAYI TAŞIYAN SAPORTA KAFASININ SOL ÜST ÖN KISMINI ÇARPIYOR. BARET KULLANIMI MEVCUT.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "141",
@@ -4057,7 +4474,10 @@
     "KazaSaati": "14:30",
     "KKazaninOlusSekliveSebebi": "EVAP KATINDA YENI MONTAJLANACAK FANLARA KABLO ÇEKERKEN,TAVAYI TAŞIYAN SAPORTA KAFASININ SOL ÜST ÖN KISMINI ÇARPIYOR. BARET KULLANIMI MEVCUT.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "142",
@@ -4086,7 +4506,10 @@
     "KazaSaati": "09:35",
     "KKazaninOlusSekliveSebebi": "DEĞIRMEN BÖLGESINDE BOZULAN SENSÖRÜ TAMIR EDERKEN, DUVARA YASLI OLAN MERDIVEN KAYIYOR,SAĞ AYAK BAŞ PARMAĞI KAYMA ESNASINDA,DEMIR KANCA ŞEKLINDEKI KOVA ASILAN YERE TAKILIYOR. YINE KAYMA ESNASINDA SOL EL ÜÇÜNCÜ(ORTA) PARMAK ISE DUVARA SÜRTÜNMEDEN DOLAYI YARALANIYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "143",
@@ -4112,10 +4535,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "22.07.2020",
-    "KazaSaati": "10:15",
+    "KazaSaati": "31.12.1899 10:15:00",
     "KKazaninOlusSekliveSebebi": "DEĞİRMENE YAKIN BÖLÜMDE ÜRETİMCİ ARKADAŞLARı VANANIN KAPALI OLDUĞUNU teyidini aldıktan sonra vANA AÇIKMIŞ,ELEKTRİKÇİ TANER RÜZGAR VANAYI SÖKERKEN SICAK SU SAĞ OMZUNDAN AŞAĞI YANIK OLUŞTURMUŞTUR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "144",
@@ -4141,10 +4567,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "10.06.2020",
-    "KazaSaati": "21:00",
+    "KazaSaati": "31.12.1899 21:00:00",
     "KKazaninOlusSekliveSebebi": "10.06.2020 tarihinde saat 21:00 da  plastik sülfirik asit kutusu elinden kayması nedeni ile vucudun sağ yanı ayaktan ve yüze kadar yanık oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "145",
@@ -4170,10 +4599,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "20.01.2020",
-    "KazaSaati": "10:00",
+    "KazaSaati": "31.12.1899 10:00:00",
     "KKazaninOlusSekliveSebebi": "Sitrik asit işletmesinde sabah saat 10:00 da tavandaki lambanın tam blok haliinde baş pariatal üst kısmına düşmüştür.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "146",
@@ -4199,10 +4631,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "18.11.2019",
-    "KazaSaati": "10:05",
+    "KazaSaati": "31.12.1899 10:05:00",
     "KKazaninOlusSekliveSebebi": "10:05 çay yemekhaneden alırken sağ eli bardağa çarpıp eline çay dökülmüştür.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "147",
@@ -4231,7 +4666,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "üst akın laboratuvarında metal şişe tamponu yaparken sol el işaret parmağını makasla kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "148",
@@ -4257,10 +4695,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "10.08.2021",
-    "KazaSaati": "13:40",
+    "KazaSaati": "13.40",
     "KKazaninOlusSekliveSebebi": "cam kutularının açarken kutunun içinde kalan cam parça sol el avuç içine girmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "149",
@@ -4289,7 +4730,10 @@
     "KazaSaati": "12:20",
     "KKazaninOlusSekliveSebebi": "analitik lab. cam pipeti cam puhara takarken pipet kırılıp sağ el işaret ve baş parmak arasını kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "150",
@@ -4318,7 +4762,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "üretim laboratuvarında erlen taşırken sağ el işaret parmağını kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "151",
@@ -4347,7 +4794,10 @@
     "KazaSaati": "16:10",
     "KKazaninOlusSekliveSebebi": "analitik laboratuvarda cam pipetle asidik analizi yaparken anlık dikkatsizlik sonucu cam pipet sağ el işaret ve orta parmağını kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "152",
@@ -4376,7 +4826,10 @@
     "KazaSaati": "15:35",
     "KKazaninOlusSekliveSebebi": "belt filtre katında 2. belt gölgesinde vakum borusunu tamir ederken,boruyu çıkartmaya çalışırken borudan her iki gözüne sitrik asit? sıçrıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "153",
@@ -4405,7 +4858,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "blending tankında çalışırken pompayı sökmek isterken, pompanın fanı sol el bileğini kesiyor.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "154",
@@ -4434,7 +4890,10 @@
     "KazaSaati": "10:45",
     "KKazaninOlusSekliveSebebi": "KOLONLARIN OLDUĞU BÖLGEDE VANA POMAPASINI AÇARKEN SICAK ÜRÜN SAĞ KOLUN TAMAMINA SIÇRAYIP YANIK OLUŞMUŞTUR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "155",
@@ -4463,7 +4922,10 @@
     "KazaSaati": "22:30",
     "KKazaninOlusSekliveSebebi": "mekanik işlem yaparken zincir gerdirdiği esnada sol kaş üzerine boru çarpıyor. 1.5 cm kesi oluşturuyor. Pansuman yapılıyor.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "5",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "156",
@@ -4489,10 +4951,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "29.11.2019",
-    "KazaSaati": "10:30",
+    "KazaSaati": "31.12.1899 10:30:00",
     "KKazaninOlusSekliveSebebi": "BUGÜN SAAT 10:30 ‘DA MAKINE MONTAJI(YER DEĞIŞIKLIĞI) YAPILDIĞI  YERIN ÜST KISMINDAKI BORULARIN DESTEKLEYEN KISIMDAKI PUNTONUN SÖKÜLMESI ILE TAKRIBI 50 CM YÜKSEKLIKTEN BORULAR KOPARAK ÜZERLERINE DÜŞMÜŞTÜR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "21",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "157",
@@ -4521,7 +4986,10 @@
     "KazaSaati": "10:20",
     "KKazaninOlusSekliveSebebi": "ÇALIŞIRKEN BEL FITIĞINDAN DOLAYI BELİ TUTULUYOR",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "158",
@@ -4550,7 +5018,10 @@
     "KazaSaati": "09:40",
     "KKazaninOlusSekliveSebebi": "ARITMA KIMYASAL ALIM BÖLGESINDE ÇALIŞIRKEN YAĞMUR SUYUYLA DOLU HAVUZA BOYNU HARIÇ TÜM VÜCUDUYLA DÜŞMÜŞ. SOL KOL ÜST KISIMDA SIYRIK VAR. EKLEM HAREKETI KISITLI AĞRI VE HASSASIYET MEVCUT. PANSUMAN YAPILDI ATELE ALINDI SOĞUK KOMPRES UYGULANDI.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "159",
@@ -4579,7 +5050,10 @@
     "KazaSaati": "13:40",
     "KKazaninOlusSekliveSebebi": "cipsum aracının ön kaputunu açıp havalandırmak isterken, aşırı ısınan radyatör suyu üzerine sıçramış. ani refleks ile arkasını dönüyor yüzü yanmıyor ama sırtında 1. derece yanıklar oluşuyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "160",
@@ -4608,7 +5082,10 @@
     "KazaSaati": "14:50",
     "KKazaninOlusSekliveSebebi": "cips-un bölümünde yerleri süpürürken gözüne asitli ıslak ürün sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "161",
@@ -4637,7 +5114,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "kostik dolum pompalarının olduğu bölgede,merdivenle yukarıdaki kirli yüzeyleri temizlerken dengesini kaybedip,merdivenin kendi boşluk kısmına düşüyor.sağ göğüs bölgesini çarpıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "162",
@@ -4666,7 +5146,10 @@
     "KazaSaati": "10:05",
     "KKazaninOlusSekliveSebebi": "forkliftin radyatörüne su eklemek isterken, radyatörün fazla ısınmasından dolayı sağ el işaret parmağını sıcak ve basınçlı hava  yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "5",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "163",
@@ -4695,7 +5178,10 @@
     "KazaSaati": "00:00",
     "KKazaninOlusSekliveSebebi": "Mide, kol ağrısı ve solunum  güçlüğünden kötüleşmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "164",
@@ -4724,7 +5210,10 @@
     "KazaSaati": "14:25",
     "KKazaninOlusSekliveSebebi": "tezmak güvenliğinin oradan traktörle çıkarken boğazından arı sokmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "48",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "165",
@@ -4753,7 +5242,10 @@
     "KazaSaati": "15:51",
     "KKazaninOlusSekliveSebebi": "fermenter bölümü zemin katta iskeleye sol el yüzük parmağını sıkıştırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "50",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "166",
@@ -4779,10 +5271,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "04.06.2020",
-    "KazaSaati": "11:00",
+    "KazaSaati": "31.12.1899 11:00:00",
     "KKazaninOlusSekliveSebebi": "04.06.20020 saat 11:00 da Dilıted tankı yukardan temizlenirken 80 derecelik hattan gelen su eklem yerinden ayrılması nedeni yüksek basınçlı suyla ense ve sırtın üst kısmında yanık oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "167",
@@ -4808,10 +5303,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "29.04.2020",
-    "KazaSaati": "15:30",
+    "KazaSaati": "31.12.1899 15:30:00",
     "KKazaninOlusSekliveSebebi": "15:30 da merdivenden inerken ayağın iç tarafına doğru burkmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "168",
@@ -4840,7 +5338,10 @@
     "KazaSaati": "11:35",
     "KKazaninOlusSekliveSebebi": "Kurutucu katında bakım yapılırken kaynak yapılırken alev sağ arka kol hizasında bilekten omuz hizasına kadar yanmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "169",
@@ -4869,7 +5370,10 @@
     "KazaSaati": "10:15",
     "KKazaninOlusSekliveSebebi": "KURUTUCU KATINDA KEPEK KURUTMA BÖLÜMÜNDE HELEJYON KAPAĞINDAKİ BUHAR SAĞ ELİNİ YAKMIŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "170",
@@ -4898,7 +5402,10 @@
     "KazaSaati": "10:20",
     "KKazaninOlusSekliveSebebi": "SICAK SU TANKININ 90 DERECENIN ÜZERINE ÇIKINCA ÇATLAK GELEN SICAK SU  SOL AYAK VE SOL ELDE 2. DERECE YANIK OLUŞMUŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "171",
@@ -4927,7 +5434,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "Kablo alırken ayağı palete takılıyor. sağ elinin üzerine düşüyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "172",
@@ -4956,7 +5466,10 @@
     "KazaSaati": "15:10",
     "KKazaninOlusSekliveSebebi": "fermenter kontrol odası orada bulunan katta çalışırken,ph sensörü kablosu çekilirken buhar hattına sağ el bileği değiyor ve hat izolasyonsuz olduğu için bilekte 1. derece yanık meydana getiriyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "173",
@@ -4985,7 +5498,10 @@
     "KazaSaati": "22:15",
     "KKazaninOlusSekliveSebebi": "Olay 22:15 civarında Filtrasyon Cake Blending tankları üzerindeki kurumuş kekleri sıyırırken sol gözüne küçük kek parçaları KAÇMIŞ. İlk müdahale olarak göz duşu istasyonunda yıkama yapılmış. fakat gözümde batma devam ediyomuş. OSB sağlık merkezine yönlendirildi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "174",
@@ -5014,7 +5530,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "filtre pres katında çalışırken ayağı kayıp sağ elini vuruyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "175",
@@ -5043,7 +5562,10 @@
     "KazaSaati": "21:00",
     "KKazaninOlusSekliveSebebi": "D BLOK LIQUEFACTION KATINDA GIDERLEI AÇARKEN SICAK SU HORTUMU MUSLUKTAN ÇIKIYOR.MUSLUKTAN ÇIKAN BASINÇLI SICAK SU SAĞ AYAĞINI YAKIYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "176",
@@ -5072,7 +5594,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "çamaşırhanede kostikle yıkama yaparken,çamaşır makinesine eklemek istediği kostik sol gözüne sıçramış.kkd kullanımı mevcut değil.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "177",
@@ -5101,7 +5626,10 @@
     "KazaSaati": "11:15",
     "KKazaninOlusSekliveSebebi": "d blok çamaşırhane katında çamaşırları düzlerken, sol ayağı transpalet ile demir çit arasında sıkışmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "178",
@@ -5130,7 +5658,10 @@
     "KazaSaati": "11:20",
     "KKazaninOlusSekliveSebebi": "filtrasyon katında atık tankının boru kısmını boşaltırken,tıkalı boruyu açmak isterken eli büyük çuval ile boru arasında sürtünüyor ve yüzeyel yaralanmaya sebep oluyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "179",
@@ -5159,7 +5690,10 @@
     "KazaSaati": "10:00",
     "KKazaninOlusSekliveSebebi": "kostik dozaj pompasının değişimi sırasında hortum yerinden çıkınca kostik maddesi kişinin kol ve gövdesine sıçradı",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "180",
@@ -5185,10 +5719,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "17.06.2020",
-    "KazaSaati": "11:00",
+    "KazaSaati": "31.12.1899 11:00:00",
     "KKazaninOlusSekliveSebebi": "17.06.2020  saat 11:00 ayağında yanma hissediğini paçasındaki kostik  hissedince ayağınaki delikten serçe parmağındaki yarayı fark etmiş. atık deposunun üzerinde olduğunu ifade ediyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "36",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "181",
@@ -5217,7 +5754,10 @@
     "KazaSaati": "17:30",
     "KKazaninOlusSekliveSebebi": "SCM KOMBINI TIKANMIŞ,ORAYI AÇMAYA ÇALIŞIRKEN YÜRÜYÜŞ YOLUNDA HELEJON YUVASININ ÇIKINTISINA KAFASINI VURMUŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "182",
@@ -5243,10 +5783,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "31.03.2022",
-    "KazaSaati": "09:00",
+    "KazaSaati": "31.12.1899 09:00:00",
     "KKazaninOlusSekliveSebebi": "sorulduğunda wc de yüz yıkama esnasında bataryaya çarptığı yönünde cevap alınmıştır kafasında ufak çaplı bir açıklık oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "183",
@@ -5272,10 +5815,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "16.05.2020",
-    "KazaSaati": "10:45",
+    "KazaSaati": "31.12.1899 10:45:00",
     "KKazaninOlusSekliveSebebi": "10:45 kule pompasında inerken sağ ayağını burkmuş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "184",
@@ -5304,7 +5850,10 @@
     "KazaSaati": "12:05",
     "KKazaninOlusSekliveSebebi": "geridönişümde için kullanılan bigbag cuvalı içindeki mamülü 3. nötrölazyona boşaltma sırasında alttan ağzını açarken forlift gereğinden fazla inrmesi nedeni menholle cuval arasında sağ el bileği sıkışıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "185",
@@ -5333,7 +5882,10 @@
     "KazaSaati": "14:10",
     "KKazaninOlusSekliveSebebi": "FERMENTER KATINDA 80LİK TANKLARI BUHAR VERİP ISITTIKTAN SONRA,BUHAR MUSLUĞUNU KAPATIRKEN,ÜST TARAFTAN GEÇEN BUHAR BORUSUNA SOL ARKA KOL KISMI DEĞMESİ SONUCU 1. DERECE YANIK OLUŞMUŞTUR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "186",
@@ -5362,7 +5914,10 @@
     "KazaSaati": "00:01",
     "KKazaninOlusSekliveSebebi": "MESAI SAATI IÇINDE ENSE KÖKÜNDEN CINSI BELLI OLMAYAN BIR BÖCEK TARAFINDAN ISIRILMIŞ.2 NOLU ÇAY OCAĞININ ORADA ISIRILDIĞINI SÖYLEDI.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "187",
@@ -5391,7 +5946,10 @@
     "KazaSaati": "08:35",
     "KKazaninOlusSekliveSebebi": "kristalize katında çalışırken yukarıda bulunan elek katında çalışan arkadaşından dyson yapıştırıcı istiyor.arkadaşı yukarıdan aşağıya yapıştırıcıyı attıktan sonra sol el baş parmak ile işaret parmak arası yaralanıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "188",
@@ -5420,7 +5978,10 @@
     "KazaSaati": "14:45",
     "KKazaninOlusSekliveSebebi": "rafineri katının iç merdivenlerini yıkarken arkadaşı mekkiyi görmüyor,zemin yıkamada kullanılan kostik maddesini yanlışlıkla üstüne fırçayla sıçratıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "189",
@@ -5446,10 +6007,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "15.06.2020",
-    "KazaSaati": "06:00",
+    "KazaSaati": "31.12.1899 06:00:00",
     "KKazaninOlusSekliveSebebi": "15.06.2020 06:00 da gl tankını temiizliğini bitirip çıkış esnasında kapaktaki iç kısımdaki çapaklara takılarak sağ dirsek üstünde 2.5 cm civarında yüzeyel kesi oluşmutur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "190",
@@ -5475,10 +6039,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "11.06.2020",
-    "KazaSaati": "15:45",
+    "KazaSaati": "31.12.1899 15:45:00",
     "KKazaninOlusSekliveSebebi": "15:45  11.06.2020 tarihinde oturduğu yerde yakıcı madde teması nedeni ile  gluteal bölge yanmıştır. Takribi 5 cm çapında yüzeyel yanık tespit edildi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "191",
@@ -5507,7 +6074,10 @@
     "KazaSaati": "16:55",
     "KKazaninOlusSekliveSebebi": "ELEK KATINDA ELEĞI TEMIZLERKEN SOL EL IŞARET PARMAĞI ELEĞIN PISTONU ARASINDA SIKIŞMIŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "192",
@@ -5533,10 +6103,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "01.06.2020",
-    "KazaSaati": "14:00",
+    "KazaSaati": "31.12.1899 14:00:00",
     "KKazaninOlusSekliveSebebi": "30.05.2020 14:00 tarihinde sol el parmakları boru üzerine çarpması üzerine kaza gelişmiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "193",
@@ -5562,10 +6135,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "23.01.2020",
-    "KazaSaati": "12:50",
+    "KazaSaati": "31.12.1899 12:50:00",
     "KKazaninOlusSekliveSebebi": "SAAT 12:50 DE SAF SU VARİLLERİNİ TAŞIRKEN VARİLLERİN KAYMASI NEDENİ İLE ARADA KALARAK SIRT ORTA HATTA EKİMOZ VE LASERASYON KALÇA BÖLGESİNDE ZEDELENME AĞRISI MEVCUT.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "194",
@@ -5594,7 +6170,10 @@
     "KazaSaati": "13:00",
     "KKazaninOlusSekliveSebebi": "Boş dolum kafesini temizlemek isterken ağırlıktan dolayı kefe kapanmış orta parmağı kefenin arasında kalmıştır.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "195",
@@ -5623,7 +6202,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "paketleme bölümünde çalışırken sol ayağını burkmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "196",
@@ -5652,7 +6234,10 @@
     "KazaSaati": "10:49",
     "KKazaninOlusSekliveSebebi": "TAT NİŞASTADA BULUNAN LOTEZ DEPODA ÇALIŞIRKEN,SOL EL BAŞ PARMAĞINA TAHTA ÇAKARKEN ÇİVİ TABANCASIYLA ÇİVİ GİRİYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "197",
@@ -5681,7 +6266,10 @@
     "KazaSaati": "10:50",
     "KKazaninOlusSekliveSebebi": "bigbag istasyonunda operatörlere yardım ederken,bigbag platformunuarkadaşı aşağıya indirirken sol ayak bigbag ile yer arasında sıkışıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "48",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "198",
@@ -5710,7 +6298,10 @@
     "KazaSaati": "01:50",
     "KKazaninOlusSekliveSebebi": "forklift operatörü paleti yerleştirdikten sonra geri geri gelirken personelin sol ayağının üzerinden geçmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "199",
@@ -5739,7 +6330,10 @@
     "KazaSaati": "10:50",
     "KKazaninOlusSekliveSebebi": "paketleme makinesinin bobinlerinin şaftının havası alındığı esnada şaftın havası alındığını zanneden arkadaşı şaftı çekiyor, sağ el işaret parmağı uç kısmından kesiliyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "45",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "200",
@@ -5768,7 +6362,10 @@
     "KazaSaati": "07:00",
     "KKazaninOlusSekliveSebebi": "çalışma esnasında parmağını konveynıra  sıkıştırmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "201",
@@ -5797,7 +6394,10 @@
     "KazaSaati": "07:10",
     "KKazaninOlusSekliveSebebi": "paketleme makinası start verdiğinde torbayı alırken konveyör hareket silindirin arasına sıkıştırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "202",
@@ -5826,7 +6426,10 @@
     "KazaSaati": "08:30",
     "KKazaninOlusSekliveSebebi": "rampadan aşağıya inerken sol gözüne yabancı madde ? kaçmış bol su ile yıkandı, şikayetleri devam ediyor hastaneye sevk edildi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "203",
@@ -5855,7 +6458,10 @@
     "KazaSaati": "20:30",
     "KKazaninOlusSekliveSebebi": "Paketleme biriminden Reyyan Gezer numune aldıktan sonra merdivenlerden inerken ayağı burkulmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "204",
@@ -5884,7 +6490,10 @@
     "KazaSaati": "13:00",
     "KKazaninOlusSekliveSebebi": "robot hücre bölgesinde temizlik yaparken güvenlik önlemlerini almadan o bölüme giriyor. sensör personeli algılayınca robot harekete geçiyor ve personeli conveyör bölgesinde sıkıştırıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "205",
@@ -5913,7 +6522,10 @@
     "KazaSaati": "11:20",
     "KKazaninOlusSekliveSebebi": "ismail sofu kontrolündeki forklift, deponun elleçleme bölümünde çalışna personelin sağ ayağını ezmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "206",
@@ -5939,10 +6551,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "19.12.2020",
-    "KazaSaati": "09:30",
+    "KazaSaati": "31.12.1899 09:30:00",
     "KKazaninOlusSekliveSebebi": "elek katından elek altı çuvalını hava hortumu ile aşağıya sarkıtırken hortum çözülüp gözüne hızlıca çarpmış. Göz kapağında yırtılma olmuş. Şehir hastanesine gönderildi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "207",
@@ -5971,7 +6586,10 @@
     "KazaSaati": "11:15",
     "KKazaninOlusSekliveSebebi": "yeni su kulesi yapılan yerde bulunan inşaat alanında yüyrken sağ ayağının altına çivi batmış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "5",
+    "KazaTarihindekiYası": "42",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "208",
@@ -6000,7 +6618,10 @@
     "KazaSaati": "02:00",
     "KKazaninOlusSekliveSebebi": "KAZAN DAİRESİNDE  FİLTRE SÖKERKEN BASINÇLI BUHAR AYAĞINI YAKıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "209",
@@ -6029,7 +6650,10 @@
     "KazaSaati": "11:10",
     "KKazaninOlusSekliveSebebi": "KALSIYUM KARBON(?) BÖLÜMÜNDE KILEPE SIKARKEN BASINCIN ETKISIYLE HER IKI GÖZÜNE KALSIYUM KARBON TOZU SIÇRAMIŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "210",
@@ -6058,7 +6682,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "atölyenin yan tarafında gleyır pompasında çalışırken orda hat içinde bulunan ürün hattı tıkamış, bu tıkanıklıktan dolayıda orada bulunan sıcak su sol el bileğini yakmış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "211",
@@ -6087,7 +6714,10 @@
     "KazaSaati": "10:45",
     "KKazaninOlusSekliveSebebi": "kolonların olduğu bölgede vana pomapasını açarken sıcak ürün sağ kolun tamamına sıçrayıp yanık oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "212",
@@ -6116,7 +6746,10 @@
     "KazaSaati": "21:30",
     "KKazaninOlusSekliveSebebi": "belt katında vakum pompası değişirken orada bulunan yüksek ses(?)e maruz kaldığını ve işitme sorunu yaşadığını bildirdi.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "213",
@@ -6145,7 +6778,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "atölyede ispiralle alyan ucu düzlerken sol gözüne ispiral tozu(?) kaçmış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "214",
@@ -6174,7 +6810,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "pompaya fan takmak için çekiç kullanırken sıçrayan parça bilek iç yüzeyine saptanmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "42",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "215",
@@ -6203,7 +6842,10 @@
     "KazaSaati": "16:30",
     "KKazaninOlusSekliveSebebi": "atölyede mekik motoru tamiratı yaparken yaklaşık ağırlığı 20 kg(?) olan motor sağ ön kolunun üstüne düşmüş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "45",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "216",
@@ -6232,7 +6874,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "d blok pres katına sineklik montelerken sol gözüne çapak kaçmış. revire müracaat: 11.01.2023 saat 14:30",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "217",
@@ -6261,7 +6906,10 @@
     "KazaSaati": "14:20",
     "KKazaninOlusSekliveSebebi": "arıtma bölümünde sıcak su pompası bozulmuş.pompayı tamir etmek isterken pompa su basıncından dolayı yerinden çıkıyor. sıcak su vücudunun bir çok yerini yakıyor. sıcak sudan kaçmaya çalışırken kafasını orda bulunan demire vuruyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "218",
@@ -6287,10 +6935,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "04.01.2020",
-    "KazaSaati": "14:00",
+    "KazaSaati": "31.12.1899 14:00:00",
     "KKazaninOlusSekliveSebebi": "Dün saat 14:00 dan sonra koryucu kullanmadığı esnada kaynak ışıması gözüne zarar vermiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "219",
@@ -6319,7 +6970,10 @@
     "KazaSaati": "14:20",
     "KKazaninOlusSekliveSebebi": "arıtma bölümünde sıcak su pompası bozulmuş.pompayı tamir etmek etmek isterken pompa su basıncından dolayı yerinden çıkıyor. sıcak su vücudunun bir çok yerini yakıyor ve sağ ayak bileği ve sağ diz kapağını yaralıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "220",
@@ -6345,10 +6999,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "23.02.2022",
-    "KazaSaati": "09:20",
+    "KazaSaati": "09.20",
     "KKazaninOlusSekliveSebebi": "KIMYASAL BOŞALTIM ALANINDA ASIT BASMA POMPASININ ORADA ÇALIŞIRKEN,POMPA ANIDEN FIŞKIRIYOR VE SAĞ YÜZ BÖLGESINE SÜLFIRIK ASIT FIŞKIRIYOR. HASTA/YARALI KORUYUCU YÜZ SIPERLIĞI VE KORUYUCU TULUMU MEVCUT BIR ŞEKILDE ÇALIŞIYORMUŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "221",
@@ -6377,7 +7034,10 @@
     "KazaSaati": "16:45",
     "KKazaninOlusSekliveSebebi": "KEPEK KURUTMA BÖLÜMÜNDE RULMAN SÖKERKEN SOL TARAF KABURGA TARAFININ ÜSTÜNE DÜŞMÜŞ. YAKLAŞIK 1.5 METRE YÜKSEKLIKTEN DÜŞMÜŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "222",
@@ -6406,7 +7066,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "kepek kurutucu bölümünde çalışırken arkadaşının elinde bulunan hava hortumunu,arkadaşının elinden alırken hava hortumu sağ gözüne çarpmış/sıçramış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "48",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "223",
@@ -6435,7 +7098,10 @@
     "KazaSaati": "04:45",
     "KKazaninOlusSekliveSebebi": "fermenter zemin katta çalışırken yerin ıslak olmasından dolayı sol el bileğinin üzerine düşmüş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "48",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "224",
@@ -6464,7 +7130,10 @@
     "KazaSaati": "05:30",
     "KKazaninOlusSekliveSebebi": "üst akım steril alanda küf hazırlığı yaparken elinde bulunan cerrahi eldivenle çalışırken, biyogüvenlik kabininde bulunan ateşle temas edip sol el işaret parmağını yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "225",
@@ -6493,7 +7162,10 @@
     "KazaSaati": "07:10",
     "KKazaninOlusSekliveSebebi": "Küfleri tankın üzerine taşıdıktan sonra , içindeki basınç alındı. Barometre sıfırlandıktan sonra hava kontrolü yapıldı. Küfe eklenen bölgeye alkol döküldü ve bez sarıldı. Kapağı açtıktan sonra alevli alkol yüzüne atmış. Yüzünde maske olduğu için boyun tarafında sol yanağını ve sol boynunu yakmış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "226",
@@ -6522,7 +7194,10 @@
     "KazaSaati": "17:00",
     "KKazaninOlusSekliveSebebi": "mastercell laboratuvarında beherleri karıştırırken sağ el baş parmak kökü yüzeyel bir şekilde kesilmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "227",
@@ -6551,7 +7226,10 @@
     "KazaSaati": "13:25",
     "KKazaninOlusSekliveSebebi": "yolda yürürken arkadaşının elinde salladığı baret sol el orta parmağına şiddetli bir biçimde çarpıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "228",
@@ -6580,7 +7258,10 @@
     "KazaSaati": "12:25",
     "KKazaninOlusSekliveSebebi": "laboratuvar stok odasında el arabası adını verdikleri tekerlekli aracı iteklerken sol ayak tarak kemiğine darbe alıyor. ayakta şiddetli ağrı ve hassasiyet mevcut.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "229",
@@ -6609,7 +7290,10 @@
     "KazaSaati": "20:00",
     "KKazaninOlusSekliveSebebi": "Olay saat 20:00 sularında Üretim laboratuvarının besiyeri alanda Rümeysa PassBox'ı kapatırken bende açmaya çalıştım. Parmağım arada sıkıştı.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "230",
@@ -6638,7 +7322,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "üretim laboratuvarında elinde erlen ile çalışırken arkadaşıyla çarpışınca, erlen sol el işaret parmak 3. üst boğumu kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "231",
@@ -6667,7 +7354,10 @@
     "KazaSaati": "21:15",
     "KKazaninOlusSekliveSebebi": "erleni kapamak için vurduğu sırada kaynar materyal karnının üzerine dökülmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "232",
@@ -6696,7 +7386,10 @@
     "KazaSaati": "15:53",
     "KKazaninOlusSekliveSebebi": "HÜCRE BANKASI LABORATUVARINDA PETRI AÇARKEN IŞLEM BITIMINDE YERE ÇÖMELMIŞ VAZIYETTE KALKARKEN,KAFASININ SOL ÜST KADRANINI DOLABIN SIVRI KÖŞESINE VURMUŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "233",
@@ -6722,10 +7415,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "23.03.2023",
-    "KazaSaati": "09:30",
+    "KazaSaati": "31.12.1899 09:30:00",
     "KKazaninOlusSekliveSebebi": "Küf ekleme sırasında Küf ekleme kapagını actıgı zaman alev gelmesi üzerine yüzü yanmıştır. KKD KULLANIMI yok.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "234",
@@ -6751,10 +7447,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "14.02.2020",
-    "KazaSaati": "09:00",
+    "KazaSaati": "31.12.1899 09:00:00",
     "KKazaninOlusSekliveSebebi": "laboratuarda alkol ile çalışma yaparken iki elde ağır yanık oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "235",
@@ -6783,7 +7482,10 @@
     "KazaSaati": "20:00",
     "KKazaninOlusSekliveSebebi": "erlene tampon yaparken erlenin kırılması sonucunda sol eli kesilmiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "236",
@@ -6812,7 +7514,10 @@
     "KazaSaati": "15:30",
     "KKazaninOlusSekliveSebebi": "üretim laboratuvarında küf dökümü yaparken, küf dökme vana/kapağını(?) açarken, açma işinde kullandığı yzyn demir ısındığı için sağ elinin avuç içini yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "237",
@@ -6841,7 +7546,10 @@
     "KazaSaati": "23:45",
     "KKazaninOlusSekliveSebebi": "içi sıcak su dolu erlenleri taşırken, erlenin içindeki sıcak su belden aşağısına dökülmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "47",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "238",
@@ -6867,10 +7575,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "20.01.2020",
-    "KazaSaati": "10:00",
+    "KazaSaati": "31.12.1899 10:00:00",
     "KKazaninOlusSekliveSebebi": "SITRIK ASIT IŞLETMESINDE SABAH SAAT 10:00 DA TAVANDAKI LAMBANIN TAM BLOK HALIINDE BAŞ PARIATAL ÜST KISMINA DÜŞMÜŞTÜR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "239",
@@ -6899,7 +7610,10 @@
     "KazaSaati": "10:45",
     "KKazaninOlusSekliveSebebi": "besiyeri hazırlık laboratuvarında otoklava malzeme dizerken erlenmeyer sol el baş parmağını kesmiş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "240",
@@ -6928,7 +7642,10 @@
     "KazaSaati": "13:30",
     "KKazaninOlusSekliveSebebi": "besiyeri hazılık laboratuvarında erlen yıkarken sol el orta parmağı kesiliyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "241",
@@ -6957,7 +7674,10 @@
     "KazaSaati": "17:05",
     "KKazaninOlusSekliveSebebi": "SOL ayak tarak üzerine kaynar su dökülmüş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "242",
@@ -6986,7 +7706,10 @@
     "KazaSaati": "15:50",
     "KKazaninOlusSekliveSebebi": "TRAKTÖRLE ÇÖP TOPLARKEN (DURAN TRAKTÖRDEN) DÜŞÜYOR. SÜRÜCÜ DEĞIL YAN TARAFTA OTURUYOR HASTA/YARALI.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "243",
@@ -7015,7 +7738,10 @@
     "KazaSaati": "12:00",
     "KKazaninOlusSekliveSebebi": "kepek noktasının orada yerdeki suyu arka(?) atatarken orada bulunan tahliye hattının bulunduğu çukura ayağı girmiş ve sağ tarafı üstüne düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "244",
@@ -7044,7 +7770,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "soyunma odasında temizlik yaparken kullanılan kimyasallardan dolayı solunum sıkıntısı yaşamış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "245",
@@ -7073,7 +7802,10 @@
     "KazaSaati": "14:10",
     "KKazaninOlusSekliveSebebi": "DEPODA MALZEME INDIRIRKEN SOL EL DÖRDÜNCÜ (YÜZÜK) PARMAĞI INDIRDIĞI MALZEMEYLE KARGO INDIRDIĞI ARABANIN BAGAJ KISMI ARASINDA SIKIŞMIŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "246",
@@ -7102,7 +7834,10 @@
     "KazaSaati": "01:00",
     "KKazaninOlusSekliveSebebi": "kostik dozaj pomapasındaki hava atıcı hortum olmadığı için sol gözüne kostik sıçramış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "247",
@@ -7131,7 +7866,10 @@
     "KazaSaati": "14:30",
     "KKazaninOlusSekliveSebebi": "arıtma kostik dolum alanında montaj işine yardım ederken sağ dizini yere koyuyor,yerde bulunan kostik dizini yakıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "248",
@@ -7160,7 +7898,10 @@
     "KazaSaati": "08:45",
     "KKazaninOlusSekliveSebebi": "Arıtma bölümünde zeminin temizlik yapıldığında kaygan zemin nedeni ile ayağı kayıp sağ kulak üzerine düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "249",
@@ -7189,7 +7930,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "Arıtma bölümünde vanayı açtığı sıçrayan kostik her iki göze gelmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "250",
@@ -7218,7 +7962,10 @@
     "KazaSaati": "12:30",
     "KKazaninOlusSekliveSebebi": "arıtma bölümünde pak(?)  maddesini torbadan tankın içine dökerken rüzgar esmesiyle beraber her iki gözüne pak(?) maddesi kaçmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "251",
@@ -7247,7 +7994,10 @@
     "KazaSaati": "13:40",
     "KKazaninOlusSekliveSebebi": "d blok işletme laboratuvarı köşesinde çalışırken,eğilip bareti aldıktan sonra ayağa kalkarken sol kaş bölgesini demire vurmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "252",
@@ -7276,7 +8026,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "d bloğun orada bulunan diyaframlı pompanın arızasını gidermeye çalışırken, sağ ayağını kanalizasyon içinde biriken sıcak su ile yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "253",
@@ -7305,7 +8058,10 @@
     "KazaSaati": "15:20",
     "KKazaninOlusSekliveSebebi": "13.05.2022 TARIHINDE KALSIT DOLUM NOKTASINDA ÇALIŞIRKEN SAĞ AYAĞI RÖGAR KAPAĞININ IÇINE DÜŞMÜŞ. SAĞ DIZDE AĞRI,HASSASIYET VE ŞIŞLIK VAR.HASTA/YARALININ BEYANINA GÖRE HASTANEYE IŞ KAZASI OLARAK BILDIRIM YAPILMAMIŞ",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "254",
@@ -7334,7 +8090,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "arıtma bölümünde bulunan terfi havuzun üstünde anyonik haznesinde çalışırken sağ koluna anyonik temas etmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "255",
@@ -7363,7 +8122,10 @@
     "KazaSaati": "20:30",
     "KKazaninOlusSekliveSebebi": "Su giderinin logar kapağını açmaya çalışırken levye elinden kayıp parmağı arada kalmış. Sağ el orta parmağı sıkışmış. Hastaneye sevk edilmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "256",
@@ -7392,7 +8154,10 @@
     "KazaSaati": "14:20",
     "KKazaninOlusSekliveSebebi": "arıtma bölümünde kireç kamyonlarının orada bulunan perlit hattından sağ gözüne kostik sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "20",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "257",
@@ -7421,7 +8186,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "ARITMA BÖLÜMÜNDE BULUNAN TERFI HAVUZUN ÜSTÜNDE ANYONIK HAZNESINDE ÇALIŞIRKEN her iki KOLUNA ANYONIK TEMAS ETMIŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "21",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "258",
@@ -7450,7 +8218,10 @@
     "KazaSaati": "15:10",
     "KKazaninOlusSekliveSebebi": "korjen odasının kapısından içeri girmeye çalışırken kapı üstüne düşmüş. verilen ifadeye göre kapı emaneten duruyormuş.",
     "IkbilgisiIncelemeEkibi": "Çok Riskli Kaza İnceleme Ekibi Kurulmalı",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "259",
@@ -7479,7 +8250,10 @@
     "KazaSaati": "20:00",
     "KKazaninOlusSekliveSebebi": "eşanjör temizliği yapılırken gözüne kostikli su  çözeltisi kaçmıştır.(koruyucu gözlüğünü takmadığı için) O an kamaşma haricinde rahatsızlığı olmadığı için birim amirine bilgi vermemiştir.     eve gittikten sonra gözünde oluşan kızarıklıktan sonra acile gitmiş acil doktoru ön muayene sonrası sonraki güne muayeneye gelmesini söylemiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "260",
@@ -7508,7 +8282,10 @@
     "KazaSaati": "18:40",
     "KKazaninOlusSekliveSebebi": "filtrasyon operatörlerinden Mahir Karyağ filtre pres makinesinde ürün alımı için manuel vanayı açmak isterken , vana koluna destek amaçlı kullanılan aparatın kayması ve yerinden çıkmasından dolayı göz çevresine temas etmiş ve kanama meydana gelmiştir.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "261",
@@ -7537,7 +8314,10 @@
     "KazaSaati": "15:30",
     "KKazaninOlusSekliveSebebi": "kurutucu katından merdeveninden inerken  ayağı kayıp sırtının üstüne düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "262",
@@ -7566,7 +8346,10 @@
     "KazaSaati": "09:10",
     "KKazaninOlusSekliveSebebi": "mısır alım ünitesinde aracını içeri park ettikten sonra aşağı iniyor, bu esnada aracın kapısı tam kapanmıyor ve kafasını aracın köşe noktasına vuruyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "58",
+    "Cinsiyet": "Kadın"
   },
   {
     "Sira": "263",
@@ -7595,7 +8378,10 @@
     "KazaSaati": "16:15",
     "KKazaninOlusSekliveSebebi": "silo temizleme sırasında dip serici ilertirken kayarak ayağına gelmiş.Sağ ayagını burkmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "20",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "264",
@@ -7624,7 +8410,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "Mısırı temizliği sırasında evalatörün yoğun sesine maruz kalınca kulağında işitme kaybı veçınlama gelişmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "20",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "265",
@@ -7650,10 +8439,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "05.12.2019",
-    "KazaSaati": "11:30",
+    "KazaSaati": "31.12.1899 11:30:00",
     "KKazaninOlusSekliveSebebi": "11:30 DA PİŞİRME KAZANINDAKİ ÇORBAYI SEYYAR ARABANIN ÜZERİNE KATTIĞI 90 KÜVETE DOLDURURKEN mUSTAFA USTANIN ARABAYA MÜDAHALE ETMESİYLE ÇORBA SOL ELİN ÜST TARAFINDA YANIK OLUŞMUŞTUR",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "266",
@@ -7682,7 +8474,10 @@
     "KazaSaati": "12:30",
     "KKazaninOlusSekliveSebebi": "Merdivenden indiği esnada sağ bileği burkulmuş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "17",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "267",
@@ -7711,7 +8506,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "tezmak atölyesinde malzeme puntolarken sağ el üçüncü parmağını elinde eldiven varken argon teli kaynağı yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "21",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "268",
@@ -7740,7 +8538,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "arkadaşı taşlama yaparken SAĞ GÖZE çapak kaçmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "21",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "269",
@@ -7769,7 +8570,10 @@
     "KazaSaati": "09:45",
     "KKazaninOlusSekliveSebebi": "Tanktan dışarı çıktıktan sonra merdivenden inerken merdivenin kayması sonucunda şaçlara çarparak düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "21",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "270",
@@ -7798,7 +8602,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "Ustası boru kestiği yerin bir metre yakınına sağ göze çapak kaçmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "271",
@@ -7827,7 +8634,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "40lık boru keserken her iki gözüne birden çapak kaçıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "18",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "272",
@@ -7856,7 +8666,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "Merdivenden inerken 1 metre yükseklikten sağ ayağının üzerine düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "273",
@@ -7885,7 +8698,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": ",işçi tuvaletinde ayağının kayması sonucu yere düşmüş, alnında ve burnunda açılma meydana gelmiş olup, kontrol ve film çekilmesi için hastaneye sevk edilmiştir.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "274",
@@ -7914,7 +8730,10 @@
     "KazaSaati": "09:15",
     "KKazaninOlusSekliveSebebi": "Ayağına profil düşmesi nedeni ile sol bilekten dize doğru 7 cm yüzeyel kesi oluşmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "275",
@@ -7943,7 +8762,10 @@
     "KazaSaati": "16:30",
     "KKazaninOlusSekliveSebebi": "yerdeki çekiçe yanlışlıkla basmış.Ayağı ters dönmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "276",
@@ -7972,7 +8794,10 @@
     "KazaSaati": "15:15",
     "KKazaninOlusSekliveSebebi": "İki gün önce gözde batma hissi oluşmuş. Sol gözde çapak tespit edildi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "277",
@@ -8001,7 +8826,10 @@
     "KazaSaati": "14:31",
     "KKazaninOlusSekliveSebebi": "Saha içinde boru atarken puntosu yerinde kopup sağ ayağı iki boru arasınada kalıyor.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "278",
@@ -8030,7 +8858,10 @@
     "KazaSaati": "17:30",
     "KKazaninOlusSekliveSebebi": "servise bindiğinde emniyet kemeri kuyruk sokumuna batmış. Cumartesi imamaoğlu devlet hastanesi film çekilmiş.Üst bir kuruma sevki istenmiş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "279",
@@ -8059,7 +8890,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "Bugün saat 9:00’da başka bir arkadaşı taşlama yaparken yanından geçmekte olan Tezmak Çalışanı Kaan Özşimşek’in sağ gözüne taşlamadan fırlayan bir parçacık saplandı.,",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "280",
@@ -8088,7 +8922,10 @@
     "KazaSaati": "08:30",
     "KKazaninOlusSekliveSebebi": "soyunma odasında üstünü değiştiği esnada ayakkabısını giydiği esnada ayağı burkulmuş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "281",
@@ -8117,7 +8954,10 @@
     "KazaSaati": "11:10",
     "KKazaninOlusSekliveSebebi": "taşlama yapılması esnasında taşlama motorunun yere bıraktıktan elini çekerken taş sağ el başmağı tırnak uç kısmına temas etmesinde dolayı kesik oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "282",
@@ -8146,7 +8986,10 @@
     "KazaSaati": "16:30",
     "KKazaninOlusSekliveSebebi": "tornada çalışstığı esnada sağ gözüne çapak batmış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "283",
@@ -8175,7 +9018,10 @@
     "KazaSaati": "13:00",
     "KKazaninOlusSekliveSebebi": "Boruya dirsek kaynatırken başını kaldırmış.Profile çarpmış. sol alın kısmı yaralanmış.Şahit Mehmet TAŞ",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "284",
@@ -8204,7 +9050,10 @@
     "KazaSaati": "13:45",
     "KKazaninOlusSekliveSebebi": "çalışma esnasında elindeki çekiçle sol el işaret parmağına vurmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "285",
@@ -8233,7 +9082,10 @@
     "KazaSaati": "12:30",
     "KKazaninOlusSekliveSebebi": "Yemekten sonra yemekkhaneden aldığı çay sol el bileğine dökülmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "286",
@@ -8262,7 +9114,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "tez tarım mısır dolum bölümünde her iki gözünün içine rüzgardan dolayı toz kaçmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "287",
@@ -8291,7 +9146,10 @@
     "KazaSaati": "08:10",
     "KKazaninOlusSekliveSebebi": "servis içerisinde iş yerine istikamet ederken,önde fren yapan araca çarpmamak için servis fren yapınca arkadaki tır servise vuruyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "57",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "288",
@@ -8320,7 +9178,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "Argon kaynagı yaparken kaynak iğnesi sol el işaret parmağına batmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "289",
@@ -8349,7 +9210,10 @@
     "KazaSaati": "12:10",
     "KKazaninOlusSekliveSebebi": "tat nişasta'da boru montajı yaparken boru kaydırmak için çekiçle  vurduğu esnada sağ el 4 parmağına denk gelmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "290",
@@ -8378,7 +9242,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "sol gözüne çapak kaçma hikayesi",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "291",
@@ -8407,7 +9274,10 @@
     "KazaSaati": "13:30",
     "KKazaninOlusSekliveSebebi": "Tat komporesör dairesinde esen rüzgardan sol gözüne yabancı cisim girmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "57",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "292",
@@ -8436,7 +9306,10 @@
     "KazaSaati": "10:00",
     "KKazaninOlusSekliveSebebi": "atölyede metal çöp kovası yaparken sağ gözüne çapak kaçmış. 07.07.2021 tarihinden bu yana revire muracaat etmemiş,hastaneye gitmiş. hastane göz doktoruna görünmesini söyleyip yollamış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "52",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "293",
@@ -8465,7 +9338,10 @@
     "KazaSaati": "10:00",
     "KKazaninOlusSekliveSebebi": "Spiralle kesin yaptığında sol gözüne çapak saplanmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "5",
+    "KazaTarihindekiYası": "53",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "294",
@@ -8494,7 +9370,10 @@
     "KazaSaati": "13:25",
     "KKazaninOlusSekliveSebebi": "Bugün saat 13:25 sularında, Tat Nişasta (Modifiye Nişasta) içerisinde çalışan Tezmak çalışanı Gökhan Göçer, yerdeki boruyu elle kaldırmak isterken belini incitmiştir. Şahit: Ümmet Gedik",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "295",
@@ -8523,7 +9402,10 @@
     "KazaSaati": "09:45",
     "KKazaninOlusSekliveSebebi": "Tezmak işletmesinde, donam taşınması esnasında sac kapma aparatının yerinden çıkıp kafasına çarpması ve kaş üstü bölümünde yüzeysel cilt kesisi (2 cm civarı) oluşturması sebebiyle, AOSB’nin aciline sevk edilmiş olup, orada ilk müdahalesi yapılmıştır.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "296",
@@ -8552,7 +9434,10 @@
     "KazaSaati": "15:35",
     "KKazaninOlusSekliveSebebi": "malzeme altına sepha atılıken malzeme ısınmış elini değince  sağ el avuçu yanmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "297",
@@ -8581,7 +9466,10 @@
     "KazaSaati": "08:10",
     "KKazaninOlusSekliveSebebi": "SERVIS IÇERISINDE IŞ YERINE ISTIKAMET EDERKEN,ÖNDE FREN YAPAN ARACA ÇARPMAMAK IÇIN SERVIS FREN YAPINCA ARKADAKI TIR SERVISE VURUYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "49",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "298",
@@ -8610,7 +9498,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "etil alkol tarafında bulunan merdivenlerden tezmak(mermer) tarafına inerken,sağ ayak tibia(kaval kemiği)sını  iki merdiven arasına sıkıştırıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "43",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "299",
@@ -8639,7 +9530,10 @@
     "KazaSaati": "11:05",
     "KKazaninOlusSekliveSebebi": "01 dyc 15 plakalı aracın kızaklı yan kapısından argon tüplerini yükledikten somra kapıyı kapatırken yanlışlıkla sağ el baş parmağını kızaklı kapı arasına sıkıştırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "300",
@@ -8668,7 +9562,10 @@
     "KazaSaati": "14:50",
     "KKazaninOlusSekliveSebebi": "İnşaat duvra örme esnasında duvra başının ve boynunun üzerine düşüyor. şiddetli boyun ağrısı ve sırt ağrısı mevcut",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "301",
@@ -8697,7 +9594,10 @@
     "KazaSaati": "15:15",
     "KKazaninOlusSekliveSebebi": "tezmak atölyesinde çalışırken, çiviyi keserin tersiyle çıkarmaya çalışırken keser sağ gözüne sert bir şekilde çarpıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "60",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "302",
@@ -8726,7 +9626,10 @@
     "KazaSaati": "14:50",
     "KKazaninOlusSekliveSebebi": "İNŞAAT DUVRA ÖRME ESNASINDA sol kol  ÜZERINE DÜŞÜYOR. (Düzeltme)",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "65",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "303",
@@ -8755,7 +9658,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "kalıp çaktığı esnada , kalıp elinden kayıp niteliği belli olmayan su düşerek sıçrayan su gözüne gelmiş. ağrılı yanma meydana gelmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "53",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "304",
@@ -8784,7 +9690,10 @@
     "KazaSaati": "10:00",
     "KKazaninOlusSekliveSebebi": "yerden demir aldığı esnada keskin tarafı sağ el sırtında iki cm kesi oluşturmuştur",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "305",
@@ -8813,7 +9722,10 @@
     "KazaSaati": "10:00",
     "KKazaninOlusSekliveSebebi": "yerden demir aldığı esnada keskin tarafı sağ el sırtında iki cm kesi oluşturmuştur",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "306",
@@ -8842,7 +9754,10 @@
     "KazaSaati": "12:00",
     "KKazaninOlusSekliveSebebi": "sağ el 4.permak üzerine çekiçle vurmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "45",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "307",
@@ -8871,7 +9786,10 @@
     "KazaSaati": "14:20",
     "KKazaninOlusSekliveSebebi": "Doğrama makinasından sıçrayan tomruk sol elinin üzerine geliyor.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "308",
@@ -8900,7 +9818,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "extrasyon belt filtre katında nodülü sıkarken anahtar kayınca sol el baş parmağını duşlama başlığı kesiyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "309",
@@ -8929,7 +9850,10 @@
     "KazaSaati": "15:45",
     "KKazaninOlusSekliveSebebi": "malzeme keserken hızar sol el baş parmağını sıyırmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "310",
@@ -8958,7 +9882,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "yatay dilimleme makinasında çalışırken, \nmakine içerisinde biriken talaşları hava tabancası ile hava tutuğu esnada üst kapağın sağ eline düşmesi sonucunda sağ el bölgesinde ezilmeye bağlı deforme oluşmuştur.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "311",
@@ -8984,10 +9911,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "08.11.2023",
-    "KazaSaati": "09:45",
+    "KazaSaati": "9:45",
     "KKazaninOlusSekliveSebebi": "Afm palet tesislerinde palet üretim operatörü olarak çalışan Musa KOÇ boylama hızar makinesinden çıkan lataları çoklu dilimleme makinesine koyarken ,\npalet operatörü olarak çalışan Sercan ÖZTAĞA nın sağ eline latanın düşmesi sonunda Sercan ÖZTAĞA nın sağ elinin bilek kısmında burkulma meydana gelmiş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "312",
@@ -9016,7 +9946,10 @@
     "KazaSaati": "12:00",
     "KKazaninOlusSekliveSebebi": "aşırı Bel ağrısı nedeni ile aosb semt polk sevk edildi.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "313",
@@ -9045,7 +9978,10 @@
     "KazaSaati": "14:45",
     "KKazaninOlusSekliveSebebi": "ÇOKLU KESME MAKİNESİNDE (KAPAK BİÇME MAKİNESİNDE) ÇALIŞMA ESNASINDA, MAKİNENİN ARKA ÇIKIŞ BÖLÜMÜNDEN İKİ ADET TAHTA PARÇASININ FIRLAMASIYLA, KAZAZEDENİN SOL BATIN BÖLGESİNE VE BACAK ARASINA HIZLA ÇARPAN TAHTA(LAR) SONUCU YARALANMA GERÇEKLEŞMİŞTİR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "314",
@@ -9074,7 +10010,10 @@
     "KazaSaati": "14:20",
     "KKazaninOlusSekliveSebebi": "Personelin ifadesi:Ben sağda duruyorum transpaletle forklifte önümden dönüş alırken tekeri transpalate çarpıp benle transpaleti fırlatıyor bende geri geri pöçüğümun üstüne palet üzerine düşüyorum",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "38",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "315",
@@ -9103,7 +10042,10 @@
     "KazaSaati": "11:10",
     "KKazaninOlusSekliveSebebi": "Zeki Doğan adlı personel çivi tabancısından sıçrayan civi sol gözüne sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "50",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "316",
@@ -9132,7 +10074,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "palet çakma makinasında çalıştığı esnada eksik çivileri çakma işleri yaptığı sırada,otomatik çakmadan gelen paletin kendisine doğru gelmesi ve sağ bacaği 2 palet arasında sıkışması sonucunda revire geldi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "317",
@@ -9161,7 +10106,10 @@
     "KazaSaati": "14:30",
     "KKazaninOlusSekliveSebebi": "makina kesilen lata parçası sol baldırna gelmiş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "318",
@@ -9187,10 +10135,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "29.04.2020",
-    "KazaSaati": "15:30",
+    "KazaSaati": "31.12.1899 15:30:00",
     "KKazaninOlusSekliveSebebi": "laboratuvarda temizlik yaparken sağ ayağının uç kısmına çivi batmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "319",
@@ -9219,7 +10170,10 @@
     "KazaSaati": "10:50",
     "KKazaninOlusSekliveSebebi": "d blok ahşap dolap taşıdığı esnada sağ el yan kısmı  su sebilinin bardaklık bölümüne çarpıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "320",
@@ -9248,7 +10202,10 @@
     "KazaSaati": "08:45",
     "KKazaninOlusSekliveSebebi": "KEPEK YÜKLEME BÖLÜMÜNÜN ÖNÜNDE YERIN ISLAK OLMASI SEBEBIYLE AYAĞI KAYMIŞ TIBIA (KAVAL) KEMIĞINI YERE VURMUŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "321",
@@ -9277,7 +10234,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "çoklu tahta kesme makinasına sağ eliyle tahta kalkışırken baş parmağını kaptırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "322",
@@ -9306,7 +10266,10 @@
     "KazaSaati": "15:05",
     "KKazaninOlusSekliveSebebi": "servise binerken sol dirsek kısmı servis kapısında sıkışmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "37",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "323",
@@ -9335,7 +10298,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "hızardan parça keserken sıçrayan parça sol gözüne gelmiş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "324",
@@ -9364,7 +10330,10 @@
     "KazaSaati": "11:20",
     "KKazaninOlusSekliveSebebi": "çoklu topuna sol elini sıkıştırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "325",
@@ -9393,7 +10362,10 @@
     "KazaSaati": "13:35",
     "KKazaninOlusSekliveSebebi": "liqufation bölümünde tankların üstünde yıkama yaparken aşağıdaki suyu tahliye etmek istediği esnada hattın içide kostikli su kalmış, sol gözüne sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "326",
@@ -9419,10 +10391,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "15.06.2020",
-    "KazaSaati": "01:30",
+    "KazaSaati": "31.12.1899 01:30:00",
     "KKazaninOlusSekliveSebebi": "13.06.2020 tarihinde saat01:30 da merdivenlerden inerken ayağına dönme olmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "327",
@@ -9451,7 +10426,10 @@
     "KazaSaati": "21:16",
     "KKazaninOlusSekliveSebebi": "İFADESİ: liquafection 3 numaralı tanka bakarken üstten gelen boru hattından aşağı doğru ürün akıyordu gördüm  yukarı bakarken o anda sağ gözümün içine ürün geldi.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "42",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "328",
@@ -9477,10 +10455,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "31.08.2022",
-    "KazaSaati": "13:10",
+    "KazaSaati": "13.10",
     "KKazaninOlusSekliveSebebi": "filtre pres katında bulunan 2. flaş(?) tankının içini temizlerken,tankın iç yüzeyinde bulunan kimyasal(?) sol gözüne kaçmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "36",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "329",
@@ -9509,7 +10490,10 @@
     "KazaSaati": "12:45",
     "KKazaninOlusSekliveSebebi": "Liqufation tankından ürünü aldıktan sonra yan tarafta bulunAn direğe sol Kolu çarpıyor, ürün göğüs ve boyun bölgesine dökülüyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "330",
@@ -9538,7 +10522,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "liquafation katında 1. jet buhar vanasını açarken vana kırılıp sivri tarafı sağ el orta parmağın orta hizasını 0.5 cm yüzeyel ayrık bir biçimde kesi oluşturmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "331",
@@ -9567,7 +10554,10 @@
     "KazaSaati": "07:30",
     "KKazaninOlusSekliveSebebi": "01 aad 674 plakalı servis aracı şehir hastanesi kavşağında kaza yapmışlar. şehir hastanesinde tetkileri yapılmış. hastannın genel durumunun kendisi tarafından iyi olduğu öğrenildi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "32",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "332",
@@ -9593,10 +10583,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İstirahat",
     "KazaTarihi": "12.05.2020",
-    "KazaSaati": "09:45",
+    "KazaSaati": "31.12.1899 09:45:00",
     "KKazaninOlusSekliveSebebi": "09:45 de arabanın en arka koltuğunda arka kapı tutarken içindeki stepne lastik sağ koluna gelip sıkıştırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "333",
@@ -9622,10 +10615,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "25.06.2020",
-    "KazaSaati": "21:00",
+    "KazaSaati": "31.12.1899 21:00:00",
     "KKazaninOlusSekliveSebebi": "24.06.2020 21:00 Seed tanklarında temizlik yaparken başını çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "334",
@@ -9654,7 +10650,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "fermenter alt hattında buhar manuelini kapatmak için, oradaki hattın üzerine çıkıyor. bu esnada yerdeki balçıklardan dolayı ayağının altı kayganlaşıyor,oradan aşağıya düşüyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "335",
@@ -9683,7 +10682,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "fermenter bölümünde çalışırken yerden amonyum sülfat çuvalını kaldırdığı esnada beline şiddetli ağrı girmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "336",
@@ -9712,7 +10714,10 @@
     "KazaSaati": "21:35",
     "KKazaninOlusSekliveSebebi": "çalışırken Forklift ile tranplalet arasında sol elini sıkıştırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "337",
@@ -9741,7 +10746,10 @@
     "KazaSaati": "10:10",
     "KKazaninOlusSekliveSebebi": "ayağını burkması sonucu sağ elini eşanjör plakalarına çarpıyor ve kesi meydana geliyor personel",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "338",
@@ -9770,7 +10778,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "b blokta temizlik işi yaparken gider boşluğundaki süzgeçi kaldırırken,kenarlarındaki delikler sağ el işaret parmağını kesiyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "339",
@@ -9799,7 +10810,10 @@
     "KazaSaati": "09:20",
     "KKazaninOlusSekliveSebebi": "Fls tankının orada çalışırken sol omzunu vanaya vurmuş",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "22",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "340",
@@ -9828,7 +10842,10 @@
     "KazaSaati": "13:25",
     "KKazaninOlusSekliveSebebi": "çamaşırhanede arkadaşına yardım ederken sağ gözüne ıbc'den kostik sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "341",
@@ -9854,10 +10871,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "İş Başı",
     "KazaTarihi": "22.06.2020",
-    "KazaSaati": "15:15",
+    "KazaSaati": "31.12.1899 15:15:00",
     "KKazaninOlusSekliveSebebi": "saat 15:15 civarında2.5 m mesafeden bakımcılar vida sökerken ürün basınçlı bir şekilde üstüne geldiği esnada eli yanmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "342",
@@ -9886,7 +10906,10 @@
     "KazaSaati": "14:35",
     "KKazaninOlusSekliveSebebi": "filtre pres katında pres makinesini kostikle yıkarken sağ gözüne kostik kaçmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "46",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "343",
@@ -9915,7 +10938,10 @@
     "KazaSaati": "18:35",
     "KKazaninOlusSekliveSebebi": "filtrasyon bölümünde perlit dökerken sol gözüne perlit sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "344",
@@ -9944,7 +10970,10 @@
     "KazaSaati": "09:10",
     "KKazaninOlusSekliveSebebi": "perlit tanklarının orda yerleri temizlerken yukarıdan damlayan asit sağ gözüne giriyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "345",
@@ -9973,7 +11002,10 @@
     "KazaSaati": "12:55",
     "KKazaninOlusSekliveSebebi": "KALSIYUM KARBONAT BÖLÜMÜNDE BULUNAN YANGIN MERDIVENINDEN AŞAĞI DOĞRU INERKEN,MERDIVENIN ISLAK OLMASINDAN DOLAYI MERDIVENLERDEN KAYIP DÜŞMÜŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "346",
@@ -10002,7 +11034,10 @@
     "KazaSaati": "21:00",
     "KKazaninOlusSekliveSebebi": "Kepek kurutucu bölgesinde Scrubber tankının yüzey temizliği yapılırken Ahtapot hareket edince ayağıNIN üzerinden geçMİŞ. Sol ayaK orta parmağKTA hafif morarma ve ezilme oluştu. Hastaneye yönlendiriLMİŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "347",
@@ -10031,7 +11066,10 @@
     "KazaSaati": "14:00",
     "KKazaninOlusSekliveSebebi": "kurutucu katında helezonun üst kapağını kapatırken buhar sağ kol iç kısmını yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "348",
@@ -10060,7 +11098,10 @@
     "KazaSaati": "10:25",
     "KKazaninOlusSekliveSebebi": "tezmak atölyede ispiralle taşlama yaparken sağ el işaret parmağı ispiral ile kesiliyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "349",
@@ -10089,7 +11130,10 @@
     "KazaSaati": "04:00",
     "KKazaninOlusSekliveSebebi": "reaksiyon katında bulunan tanktan numune almak isterken elinde bulunan numune alma kabını tanka daldırdığı an sağ gözüne ürünle karışık sülfürik asit(?) sıçramış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "37",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "350",
@@ -10118,7 +11162,10 @@
     "KazaSaati": "17:30",
     "KKazaninOlusSekliveSebebi": "tez tarımda mısır dolumu yaptıkran sonra merdivenlerden inerken dengesini kaybedip yaklaşık 3-4 basamaktan düşüyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "351",
@@ -10147,7 +11194,10 @@
     "KazaSaati": "09:35",
     "KKazaninOlusSekliveSebebi": "filtrasyon katında 1. yedilide hazne temizliği yaparken sağ el üçüncü parmağını kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "352",
@@ -10176,7 +11226,10 @@
     "KazaSaati": "10:58",
     "KKazaninOlusSekliveSebebi": "Kendi İfadesi: Kalsiyumkarbonat hazırlama bölgesinde  4 lü perlit 2 numarayı sürküleye alıp perlit ekledim hat sürkülede olmasına rağmen giden vardiya perlit solition tank çıkışındaki vanayı kapalı bıraktıkları için  vanayı açmak için aşağıya inerken merdivenden inerken son basamakların orda   ayağım kaydı ve düştüm sağ ayağım burkuldu.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "353",
@@ -10205,7 +11258,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "big bangi çıkartırken üst köşesindeki sivri kısım sağ el baş parmağını kesmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "354",
@@ -10234,7 +11290,10 @@
     "KazaSaati": "15:45",
     "KKazaninOlusSekliveSebebi": "FİLTRASYON BÖLÜMÜNDE MAKİNE YIKARKEN SAĞ GÖZÜNE  PERLİT SIÇRAMIŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "355",
@@ -10263,7 +11322,10 @@
     "KazaSaati": "13:35",
     "KKazaninOlusSekliveSebebi": "yemekhane altında bulunan soyunma odasında pantolununu değiştirirken maket bıçağı düşüyor sağ ayağını kesiyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "356",
@@ -10292,7 +11354,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "soyunma odasında üstünü değiştirirken kafasını dolabın köşesine vurmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "357",
@@ -10321,7 +11386,10 @@
     "KazaSaati": "11:20",
     "KKazaninOlusSekliveSebebi": "kepek bölümünde kürekle temizlik yaparken kürekle tuttuğu eli demire çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "358",
@@ -10350,7 +11418,10 @@
     "KazaSaati": "10:30",
     "KKazaninOlusSekliveSebebi": "FILTRE PRESS MAKINESINI TEMIZLERKEN BAŞI DÖNÜYOR,AYAĞI KAYIP YAKLAŞIK 2.5 METRE YÜKSEKLIKTEN DÜŞÜYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "359",
@@ -10379,7 +11450,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "KURUTUCU SAĞ Ö KISMINA BUHAR GELMİŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "360",
@@ -10408,7 +11482,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "tat nişastada geçici görevlendirmeyle çalışırken, tavan vincinin kullanımına yardım ettiği esnada, arkasında bulunan sürgülü kapının sürgüsünün kapalı olmamasından dolayı, o kapıdan aşağıya düşmüş. sağ elde ağrı ve hassasiyet var.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "361",
@@ -10437,7 +11514,10 @@
     "KazaSaati": "12:20",
     "KKazaninOlusSekliveSebebi": "kepek kurutucu katında çalışırken ensesinden böcek ısırıyor/sokuyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "362",
@@ -10466,7 +11546,10 @@
     "KazaSaati": "09:00",
     "KKazaninOlusSekliveSebebi": "ikinci nötr tankının orda ince sirkülasyon vanasına kör atılırken borudan yüksek sıcaklıkta ürün? yücudunun bir çok noktasına sıçramış.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "363",
@@ -10495,7 +11578,10 @@
     "KazaSaati": "17:10",
     "KKazaninOlusSekliveSebebi": "ektrasyon bölümünde 16.5luk tankın üstünde ayağı kaymış,tutunmak isterken küçük ve ince bir boruya tutunmuş.o boruyu sol el avuş iç kısmını yakmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "23",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "364",
@@ -10521,10 +11607,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "04.03.2022",
-    "KazaSaati": "02:00",
+    "KazaSaati": "31.12.1899 02:00:00",
     "KKazaninOlusSekliveSebebi": "05.03.20222 TARİHİNDE SAAT 02:00 SULARINDA  BURAK ÜNAL ERİTMEDE TAHTA PALET TAŞIRKEN SOL AYAK AŞIK KEMİĞİ ÜZERİNE DÜŞMESİ SONUCU  incilme oldu.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "365",
@@ -10553,7 +11642,10 @@
     "KazaSaati": "08:30",
     "KKazaninOlusSekliveSebebi": "blending tankına giden tıkalı olan hattı, havayla açmaya çalışırken sol koluna, patlayan hava hortumundan basınçlı hava gelmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "366",
@@ -10582,7 +11674,10 @@
     "KazaSaati": "14:50",
     "KKazaninOlusSekliveSebebi": "2. nötr tankının üstünde çalışırken ayağı boşluğa gelmiş ve incinmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "8",
+    "KazaTarihindekiYası": "62",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "367",
@@ -10611,7 +11706,10 @@
     "KazaSaati": "16:00",
     "KKazaninOlusSekliveSebebi": "belt filtre katında bulunan su sebiline kafasını çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "368",
@@ -10640,7 +11738,10 @@
     "KazaSaati": "11:30",
     "KKazaninOlusSekliveSebebi": "nırm mühendislik boru kaynatmış. onu küpün üzerine koymuş.Çevre düzenlemesi yaptığı esnada sağ elini boruya dokunmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "369",
@@ -10669,7 +11770,10 @@
     "KazaSaati": "16:20",
     "KKazaninOlusSekliveSebebi": "belt filtre katında duşlama vanasına kör atarken anahtar elinden kayıyor diğer duşlamaya sağ el serçe parmağı çarpıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "370",
@@ -10698,7 +11802,10 @@
     "KazaSaati": "01:45",
     "KKazaninOlusSekliveSebebi": "liqufation cooktubelarda çalışırken üstteki vananın açık olduğunu fark etmiyor, alt vanayı kapatınca üst vanadan her iki gözüne de kostik sıçrıyor.(sulandırılmış kostik, derişimi 3.5 vardiya amiri süleymandan alınan bilgiye göre)",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "371",
@@ -10727,7 +11834,10 @@
     "KazaSaati": "06:50",
     "KKazaninOlusSekliveSebebi": "A blok kontrol odasına gelmesiyle haberim oldu .1. Nötralizasyon tankları kontrol amacıyla tanklar arasında gezinirken ayağı kayıp düştüğünü ,",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "372",
@@ -10756,7 +11866,10 @@
     "KazaSaati": "19:00",
     "KKazaninOlusSekliveSebebi": "EKSTRASYON BÖLÜMÜ IKINCI NÖTR BÖLÜMÜNDE YERDEN 1.5 METRE YÜKSELIĞINDE BULUNAN VANAYI AÇARKEN SAĞ OMUZ VE KALÇASININ ÜSTÜNE DÜŞÜYOR. OLAY 19.05.2022 TARIHINDE SAAT 19:00 SULARINDA GERÇEKLEŞMIŞ.  REVIRE MÜRACAAT 20.05.2022 SAAT 16:30",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "373",
@@ -10785,7 +11898,10 @@
     "KazaSaati": "09:45",
     "KKazaninOlusSekliveSebebi": "belt filtre katında yerleri çekpasla çekerken yerdeki ürün birikintisi sağ gözüne sıçramış. hasta/yaralının gözünde  koruyucu gözlüğü yokmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "374",
@@ -10814,7 +11930,10 @@
     "KazaSaati": "13:40",
     "KKazaninOlusSekliveSebebi": "belt filtre katında pompa değiişimi yaparken sol koluna bilmediği bir kimyasal değmiş. sol kolun yüzeyinde kızarıklık ve yanma mevcut.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "375",
@@ -10843,7 +11962,10 @@
     "KazaSaati": "23:30",
     "KKazaninOlusSekliveSebebi": "vanayı açmaya çalışırken üzerine boru takıp üzerine çıkıyor.Boru kırılıp yer düşüyor.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "28",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "376",
@@ -10872,7 +11994,10 @@
     "KazaSaati": "10:45",
     "KKazaninOlusSekliveSebebi": "2. nötr merdivenlerinden su jetini indirmeye çalışırken sol kaval kemiğine su jeti çarpmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "377",
@@ -10901,7 +12026,10 @@
     "KazaSaati": "21:10",
     "KKazaninOlusSekliveSebebi": "Kazan içinde çalışırken dirseğini keskin yere çaırpın 3cm kesi oluturmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "25",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "378",
@@ -10930,7 +12058,10 @@
     "KazaSaati": "12:00",
     "KKazaninOlusSekliveSebebi": "kepek kurutucuda çalışırken sağ el yan üst kısım sıcak buharla temas sonucu yanmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "379",
@@ -10959,7 +12090,10 @@
     "KazaSaati": "15:00",
     "KKazaninOlusSekliveSebebi": "kalsiyum karbonat deposunun oradaki merdivenden yukarı çıkarken, bir basamağının kırık olduğunu söylediği merdivende sağ ayağının burkmuş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "26",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "380",
@@ -10988,7 +12122,10 @@
     "KazaSaati": "10:19",
     "KKazaninOlusSekliveSebebi": "vana kontrolü yaptığı sırada baret kafasında düşüyor, başını kaldırdığı esnada başını metal aksama çarpıp yaralanmasına neden oluyor",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "34",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "381",
@@ -11017,7 +12154,10 @@
     "KazaSaati": "09:45",
     "KKazaninOlusSekliveSebebi": "2. beltte kekin kıvamını kontrol ederken, iskele demiri(?) kayıyor ve sol ayak kemiğinin üstüne düşüyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "382",
@@ -11046,7 +12186,10 @@
     "KazaSaati": "23:55",
     "KKazaninOlusSekliveSebebi": "2. Belt 3. Refüzyon tankı vakum vanasını kısmaya çalışırken üzerine çıktığı küp üzerindeyken ayağı kayması sonucu küpün kapağı kayarak bir ayağı küp içerisine düşmüştür.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "383",
@@ -11075,7 +12218,10 @@
     "KazaSaati": "15:30",
     "KKazaninOlusSekliveSebebi": "belt filtre katında reaksiyon vanalarını birbiine uyarlarken anahtar elinden kayıp sol elini vana ile anahtar arasına sıkıştırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "384",
@@ -11104,7 +12250,10 @@
     "KazaSaati": "15:15",
     "KKazaninOlusSekliveSebebi": "reaksiyon ve belt filtre katının arasında bulunan ara katta çalışırken dengesi kayboluyor. sıcak buhar borusuna tutunmuş sol eli yanmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "30",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "385",
@@ -11133,7 +12282,10 @@
     "KazaSaati": "10:05",
     "KKazaninOlusSekliveSebebi": "D BLOK EKSTRASYON KATINDA DEFomer MOTORU ARIZA VERDIĞI IÇIN ÜRÜN AKITIYORDU.ETRAFI TEMIZLERKEN TELEFON ELINDEN DÜŞÜYOR,TELEFONU ÇIRPINCA TELEFONDAKI DEFOmer MADDESI SOL GÖZÜNE SOÇRIYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "386",
@@ -11162,7 +12314,10 @@
     "KazaSaati": "13:15",
     "KKazaninOlusSekliveSebebi": "iyon değiştiricide sülfürik hattını hava ile temizlemeye çalışırken, çekvalfin olmasından kaynaklı verilen hava içerideki sülfürik asitle birlikte çalışanın yüzüne ve üstüne sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "387",
@@ -11191,7 +12346,10 @@
     "KazaSaati": "14:00",
     "KKazaninOlusSekliveSebebi": "sülfürük asit tankında hatta kaçak hakkında işlem yaparken hava verip hat boşaltılacaktı.daha önce böyle bir problem olunca mekanik bakım check valp takmış. hasan turgut hatları açağını söyledi ve altına ıbs katacağını söyledi.hava kontrolü yapılıp boşalma olmayınca hortumu vana çıkarınca kalan basınç etkisi ile asit vucuduna sıçramış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "388",
@@ -11220,7 +12378,10 @@
     "KazaSaati": "09:40",
     "KKazaninOlusSekliveSebebi": "17.09.2022 tarihinde tezmakta geçici görevlendirmeyle çalışırken yerdeki metal parçaları toplamak isterken,çuvalı açacağı esnada sol el işaret parmağı kesilmiş. revire müracaat bugün.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "389",
@@ -11249,12 +12410,15 @@
     "KazaSaati": "15:20",
     "KKazaninOlusSekliveSebebi": "kurutucu katı oslo bölümünde donmuş ürünü parçalarken baret kafasından düşüyor, kafasını iskelenin birleşim noktasına sıyırma tarzında vuruyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "24",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "390",
     "Adi": "ALİ",
-    "Soyadi": "GÜCCÜK",
+    "Soyadi": "GÜÇÇÜK",
     "sirketAdi": "TEZKİM SİTRİK SN. A.Ş.",
     "BolumAdi": "Rafineri Kristal Katı",
     "OlayinKisaTanimi": "El yanığı",
@@ -11278,7 +12442,10 @@
     "KazaSaati": "15:10",
     "KKazaninOlusSekliveSebebi": "caa gl ,cam glye giden hat tıkalı.hattı açmak için dışarıdan buhar vermiş.ürün giriş var mı diye cam gl'yi kontrol etmek amaçlı yukarı çıkarken destek amaçlı tuttuğu buhar hattı olduğunu ifade ettiği boru sol el avuç içini yakmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "391",
@@ -11307,7 +12474,10 @@
     "KazaSaati": "08:00",
     "KKazaninOlusSekliveSebebi": "A BLOKTAKI SOYUNMA ODASINDA ÜSTÜNÜ DEĞIŞTIRIRKEN CAMIN ÖNÜNE EMANETEN YASLANMIŞ OLAN DOLAP,RÜZGARIN ESMESIYLE PERSONELIN ÜZERINE DEVRILMIŞ.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "40",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "392",
@@ -11336,7 +12506,10 @@
     "KazaSaati": "07:30",
     "KKazaninOlusSekliveSebebi": "01 aad 674 plakalı araç ile şehir hastanesi kavşağında kaza yapmışlar.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "393",
@@ -11365,7 +12538,10 @@
     "KazaSaati": "14:55",
     "KKazaninOlusSekliveSebebi": "DOLUM BÖLÜMÜ CIVARINDA KOSTIĞE START VERIP KAPATTIRIRKEN,KOSTIK POMPASININ ORADAKI BORUDAN DELIK AÇILIYOR, UZUN BIR MESAFEDEN HER IKI GÖZÜNE KOSTIK KAÇIYOR.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "21",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "394",
@@ -11394,7 +12570,10 @@
     "KazaSaati": "14:15",
     "KKazaninOlusSekliveSebebi": "transpalete gazlı bez yüklerken,arkadaşı transpaletin kontrol kısmını kafasına kazara çarptırmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "20",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "395",
@@ -11423,7 +12602,10 @@
     "KazaSaati": "13:20",
     "KKazaninOlusSekliveSebebi": "Rafineri elekk katında vibrasyon kaynaklı dağılmayı önlemek için önlemek için kolları elekten çıkarırken elinden kol kayayarak dizinin yanına sıyrık tarzında yaralanma oluşuyor.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "29",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "396",
@@ -11452,7 +12634,10 @@
     "KazaSaati": "13:25",
     "KKazaninOlusSekliveSebebi": "tezmak hurdalık alanda forlift asılı demir kütlesini dengede tutmaya çalışırken tank ile kütle arasına sol işaret parmağı kalmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "397",
@@ -11481,7 +12666,10 @@
     "KazaSaati": "12:10",
     "KKazaninOlusSekliveSebebi": "elek katında çalışırken, elekteki ürünü ıslatma işleme işlemi ilgili hazneye dökerken baret eğildiği kafasından düşüyor,bu esnada kafasını orada bulunan demirin sivri demire çarpıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "44",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "398",
@@ -11507,10 +12695,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "30.11.2020",
-    "KazaSaati": "10:50",
+    "KazaSaati": "31.12.1899 10:50:00",
     "KKazaninOlusSekliveSebebi": "Rafineri elek katında görevli Sami Erdoğan Merdivenle caa feed motordan numune almak için çıkarken merdivenin kayması sonucu düştü ve eli kesildi.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "42",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "399",
@@ -11539,7 +12730,10 @@
     "KazaSaati": "23:00",
     "KKazaninOlusSekliveSebebi": "elek katını temizlerken ayağı kayıp elek makinası ayaklarına kafasını çarpmış. Baret kullanmıyormuş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "45",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "400",
@@ -11568,7 +12762,10 @@
     "KazaSaati": "17:00",
     "KKazaninOlusSekliveSebebi": "kurutucu katında eski makinaların sökümü yapılırken sol el baş parmağı makine ile demir direk arasında sıkışmış.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "41",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "401",
@@ -11597,7 +12794,10 @@
     "KazaSaati": "11:00",
     "KKazaninOlusSekliveSebebi": "evap katında numune alırken buhar hattı  sağ el bileğini yakmış",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "LISE VE DENGI O",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "39",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "402",
@@ -11626,7 +12826,10 @@
     "KazaSaati": "09:39",
     "KKazaninOlusSekliveSebebi": "evap katı cma santrifüj 3 nolu kısımda temizlik yaparken ayağa kalktığı esnada yerde bulunan destek demirine takılıyor düşüyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "YUKSEK OKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "35",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "403",
@@ -11655,7 +12858,10 @@
     "KazaSaati": "12:20",
     "KKazaninOlusSekliveSebebi": "Rafineri evap katında evapların pompalarının salmastra hortumlarını Nurettin Ayyıldızla beraber hava hortumu ile temizleme sırasında hava hortumunun ARKADAŞININ elinden kayması NEDENİYLE hortum gözüme carpmıştır.Çarpma sırasında gözümde kullandıgım numaralı gözlük bulunmaktadır.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "36",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "404",
@@ -11684,7 +12890,10 @@
     "KazaSaati": "15:05",
     "KKazaninOlusSekliveSebebi": "D blok beltfiltre katında bıçak değişimi sırasında duşlama haznesine  sıcak su  verirken hortum ek yeri ayurılıyor,sıcak su sağ bacak arka baldırı  yakıyor",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "31",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "405",
@@ -11713,7 +12922,10 @@
     "KazaSaati": "09:30",
     "KKazaninOlusSekliveSebebi": "extrasyon bölgesinde bulunan 1. nötr tankının içine 2 tane taşeron firma çalışanı giriyor, tankın içindeki gazdan dolayı etkileniyorlar ve kısmi bilinç kaybı yaşıyorlar. taşeron firma çalışanlarını dışarıda yarı baygın halde gören süleyman kölecioğlu adlı personelimiz şok geçiriyor ve bayılıyor.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "UNIVERSITE",
+    "IsYeriDeneyimiYili": "3",
+    "KazaTarihindekiYası": "33",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "406",
@@ -11742,7 +12954,10 @@
     "KazaSaati": "15:50",
     "KKazaninOlusSekliveSebebi": "mesai bitiminde lavoboya çarpınça yapışık mermer sağ ayak baş parmağı üzerine düşmüş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "1",
+    "KazaTarihindekiYası": "27",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "407",
@@ -11768,10 +12983,13 @@
     "IkbilgisiYaralanmaKazadanSonra": "",
     "MuayeneSonrasi": "Sevk",
     "KazaTarihi": "02.03.2021",
-    "KazaSaati": "09:00",
+    "KazaSaati": "31.12.1899 09:00:00",
     "KKazaninOlusSekliveSebebi": "Köpek tarafında bacakta ısırma",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "2",
+    "KazaTarihindekiYası": "43",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "408",
@@ -11800,7 +13018,10 @@
     "KazaSaati": "14:01",
     "KKazaninOlusSekliveSebebi": "fabrika dışında metal sanayide acer laserde kamyonun kasası arkasında tavan vinçiyle aşağı indirirken yükün meyili nedeni ile kendisine doğru malzeme gelince kendisine vurmuş.Kamyon kasasından yere düşmüş.2.5 m yükseklik.Sırtının üzerine düşmüş kafasını yere çarpmış.ambulans ile sevk edilmiş.",
     "IkbilgisiIncelemeEkibi": "",
-    "analiz": ""
+    "Egitim": "ILKOKUL",
+    "IsYeriDeneyimiYili": "4",
+    "KazaTarihindekiYası": "45",
+    "Cinsiyet": "Erkek"
   },
   {
     "Sira": "409",
@@ -11829,6 +13050,9 @@
     "KazaSaati": "17:30",
     "KKazaninOlusSekliveSebebi": "Arabadan indiği esnada ayağı basamaktan kayıp sağ el bilek üzerine düşmüş.",
     "IkbilgisiIncelemeEkibi": "Süreçte Değerlendirilmeli",
-    "analiz": ""
+    "Egitim": "ORTAOKUL",
+    "IsYeriDeneyimiYili": "0",
+    "KazaTarihindekiYası": "55",
+    "Cinsiyet": "Erkek"
   }
 ]

@@ -5,14 +5,14 @@
     using Newtonsoft.Json;
     using System.Collections.Generic;
     using System.Xml;
-
+    //C:\Users\bulent.erdem\Desktop\excelToJson\tezcanlarİş KazasıAnalizi\TezcanİşKazaAnalizi.xlsx
     class Program
     {
         static void Main(string[] args)
         {
-            var workbookPath = "/Users/bulenterdem/Projects/excelToJson/tezcanlarİş KazasıAnalizi/TezcanİşKazaAnalizi.xlsx"; // Excel dosyasının yolu
+            var workbookPath = "C:\\Users\\bulent.erdem\\Desktop\\excelToJson\\tezcanlarİş KazasıAnalizi\\TezcanİşKazaAnalizi.xlsx"; // Excel dosyasının yolu
             var jsonString = ConvertExcelToJson(workbookPath);
-            var jsonOutputPath = "/Users/bulenterdem/Projects/excelToJson/tezcanlarİş KazasıAnalizi/analiziJson.json"; // JSON dosyasının kaydedileceği yol
+            var jsonOutputPath = "C:\\Users\\bulent.erdem\\Desktop\\excelToJson\\tezcanlarİş KazasıAnalizi\\analiziJson.json"; // JSON dosyasının kaydedileceği yol
             File.WriteAllText(jsonOutputPath, jsonString);
             System.Console.WriteLine(jsonString);
         }
